@@ -1,20 +1,20 @@
 # LeetCode Solutions
 
-**Total Solved:** 205
+**Total Solved:** 214
 
 ### Difficulty
-- **Easy:** 113
-- **Medium:** 83
-- **Hard:** 9
+- **Easy:** 118
+- **Medium:** 86
+- **Hard:** 10
 
 ### Languages
-- **cpp**: 262
+- **cpp**: 274
 - **javascript**: 1
 
 ### Timeline
 - **Oldest Submission:** 2026-02-15
 - **Newest Submission:** 2026-07-10
-- **Last Sync:** 2026-07-10 17:51:31
+- **Last Sync:** 2026-07-10 17:54:47
 
 ## Problem List
 
@@ -103,6 +103,18 @@
 | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string) | cpp | 2026-07-03 |
 | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string) | cpp | 2026-07-03 |
 | [Gas Station](https://leetcode.com/problems/gas-station) | cpp | 2026-07-03 |
+| [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | cpp | 2026-07-03 |
+| [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | cpp | 2026-07-03 |
+| [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues) | cpp | 2026-07-03 |
+| [Design Circular Queue](https://leetcode.com/problems/design-circular-queue) | cpp | 2026-07-03 |
+| [Design Circular Queue](https://leetcode.com/problems/design-circular-queue) | cpp | 2026-07-03 |
+| [Hamming Distance](https://leetcode.com/problems/hamming-distance) | cpp | 2026-07-03 |
+| [Rotate Image](https://leetcode.com/problems/rotate-image) | cpp | 2026-07-02 |
+| [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) | cpp | 2026-07-02 |
+| [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) | cpp | 2026-07-02 |
+| [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses) | cpp | 2026-07-02 |
+| [LRU Cache](https://leetcode.com/problems/lru-cache) | cpp | 2026-07-02 |
+| [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | cpp | 2026-07-02 |
 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | cpp | 2026-07-02 |
 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | cpp | 2026-07-02 |
 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | cpp | 2026-07-02 |
