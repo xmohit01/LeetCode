@@ -2,6 +2,6 @@
 
 - **Difficulty**: Easy
 - **Language**: cpp
-- **Runtime**: 10 ms
-- **Memory**: 7.8 MB
+- **Runtime**: 2 ms
+- **Memory**: 7.7 MB
 - **Link**: https://leetcode.com/problems/fibonacci-number

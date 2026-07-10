@@ -4,13 +4,12 @@ public:
         if(n == 0) return 0;
         if(n == 1) return 1;
 
-        // int a = 0, b = 1;
-        // for(int i = 0; i < n - 1; i++){
-        //     int temp = a + b;
-        //     a = b;
-        //     b = temp;
-        // }
-        // return b;
-        return fib(n - 1) + fib(n - 2);
+        int a = 0, b = 1;
+        for(int i = 0; i < n - 1; i++){
+            int temp = a + b;
+            a = b;
+            b = temp;
+        }
+        return b;
     }
 };
