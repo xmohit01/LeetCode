@@ -307,4 +307,12 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/xmohit01/LeetCode/tree/master/0836-rectangle-overlap) |
+## Array
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/xmohit01/LeetCode/tree/master/0875-koko-eating-bananas) |
+## Binary Search
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/xmohit01/LeetCode/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
