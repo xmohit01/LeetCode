@@ -2,6 +2,6 @@
 
 - **Difficulty**: Medium
 - **Language**: cpp
-- **Runtime**: 0 ms
+- **Runtime**: 1 ms
 - **Memory**: 17.5 MB
 - **Link**: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
