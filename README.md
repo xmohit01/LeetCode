@@ -312,6 +312,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/xmohit01/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0041-first-missing-positive](https://github.com/xmohit01/LeetCode/tree/master/0041-first-missing-positive) |
 | [0875-koko-eating-bananas](https://github.com/xmohit01/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/xmohit01/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/xmohit01/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -336,6 +337,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/xmohit01/LeetCode/tree/master/0041-first-missing-positive) |
 | [0205-isomorphic-strings](https://github.com/xmohit01/LeetCode/tree/master/0205-isomorphic-strings) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/xmohit01/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 ## String
