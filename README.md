@@ -302,6 +302,7 @@
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/xmohit01/LeetCode/tree/master/0263-ugly-number) |
 | [0836-rectangle-overlap](https://github.com/xmohit01/LeetCode/tree/master/0836-rectangle-overlap) |
 ## Geometry
 |  |
