@@ -314,6 +314,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/xmohit01/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0875-koko-eating-bananas](https://github.com/xmohit01/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/xmohit01/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/xmohit01/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/xmohit01/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/xmohit01/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Search
@@ -336,9 +337,14 @@
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/xmohit01/LeetCode/tree/master/0205-isomorphic-strings) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/xmohit01/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 ## String
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/xmohit01/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0205-isomorphic-strings](https://github.com/xmohit01/LeetCode/tree/master/0205-isomorphic-strings) |
+## Counting
+|  |
+| ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/xmohit01/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
