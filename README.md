@@ -331,4 +331,12 @@
 |  |
 | ------- |
 | [1901-find-a-peak-element-ii](https://github.com/xmohit01/LeetCode/tree/master/1901-find-a-peak-element-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/xmohit01/LeetCode/tree/master/0205-isomorphic-strings) |
+## String
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/xmohit01/LeetCode/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
