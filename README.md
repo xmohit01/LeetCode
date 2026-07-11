@@ -314,6 +314,7 @@
 | [0875-koko-eating-bananas](https://github.com/xmohit01/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/xmohit01/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/xmohit01/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/xmohit01/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -321,8 +322,13 @@
 | [0875-koko-eating-bananas](https://github.com/xmohit01/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/xmohit01/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/xmohit01/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/xmohit01/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/xmohit01/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Matrix
+|  |
+| ------- |
+| [1901-find-a-peak-element-ii](https://github.com/xmohit01/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 <!---LeetCode Topics End-->
