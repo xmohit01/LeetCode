@@ -315,6 +315,7 @@
 | [0041-first-missing-positive](https://github.com/xmohit01/LeetCode/tree/master/0041-first-missing-positive) |
 | [0875-koko-eating-bananas](https://github.com/xmohit01/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/xmohit01/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1094-car-pooling](https://github.com/xmohit01/LeetCode/tree/master/1094-car-pooling) |
 | [1331-rank-transform-of-an-array](https://github.com/xmohit01/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/xmohit01/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/xmohit01/LeetCode/tree/master/1539-kth-missing-positive-number) |
@@ -354,5 +355,18 @@
 ## Sorting
 |  |
 | ------- |
+| [1094-car-pooling](https://github.com/xmohit01/LeetCode/tree/master/1094-car-pooling) |
 | [1331-rank-transform-of-an-array](https://github.com/xmohit01/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/xmohit01/LeetCode/tree/master/1094-car-pooling) |
+## Simulation
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/xmohit01/LeetCode/tree/master/1094-car-pooling) |
+## Prefix Sum
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/xmohit01/LeetCode/tree/master/1094-car-pooling) |
 <!---LeetCode Topics End-->
