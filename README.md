@@ -352,6 +352,7 @@
 | [0008-string-to-integer-atoi](https://github.com/xmohit01/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0205-isomorphic-strings](https://github.com/xmohit01/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/xmohit01/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0583-delete-operation-for-two-strings](https://github.com/xmohit01/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 ## Counting
 |  |
 | ------- |
@@ -405,4 +406,8 @@
 |  |
 | ------- |
 | [0662-maximum-width-of-binary-tree](https://github.com/xmohit01/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/xmohit01/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 <!---LeetCode Topics End-->
