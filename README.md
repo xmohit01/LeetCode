@@ -315,6 +315,7 @@
 | [0041-first-missing-positive](https://github.com/xmohit01/LeetCode/tree/master/0041-first-missing-positive) |
 | [0875-koko-eating-bananas](https://github.com/xmohit01/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/xmohit01/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1331-rank-transform-of-an-array](https://github.com/xmohit01/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/xmohit01/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/xmohit01/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/xmohit01/LeetCode/tree/master/1901-find-a-peak-element-ii) |
@@ -339,6 +340,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/xmohit01/LeetCode/tree/master/0041-first-missing-positive) |
 | [0205-isomorphic-strings](https://github.com/xmohit01/LeetCode/tree/master/0205-isomorphic-strings) |
+| [1331-rank-transform-of-an-array](https://github.com/xmohit01/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/xmohit01/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 ## String
 |  |
@@ -349,4 +351,8 @@
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/xmohit01/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/xmohit01/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
