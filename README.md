@@ -1,25 +1,39 @@
 # LeetCode Solutions
 
-**Total Solved:** 221
+**Total Solved:** 233
 
 ### Difficulty
-- **Easy:** 120
-- **Medium:** 91
-- **Hard:** 10
+- **Easy:** 126
+- **Medium:** 95
+- **Hard:** 12
 
 ### Languages
-- **cpp**: 220
+- **cpp**: 232
 - **javascript**: 1
 
 ### Timeline
 - **Oldest Submission:** 2026-02-15
-- **Newest Submission:** 2026-07-11
-- **Last Sync:** 2026-07-11 09:37:24
+- **Newest Submission:** 2026-07-12
+- **Last Sync:** 2026-07-12 13:33:29
 
 ## Problem List
 
 | Problem | Language | Date |
 |---|---|---|
+| [Car Pooling](https://leetcode.com/problems/car-pooling) | cpp | 2026-07-12 |
+| [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) | cpp | 2026-07-12 |
+| [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) | cpp | 2026-07-12 |
+| [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array) | cpp | 2026-07-12 |
+| [Number of Elapsed Seconds Between Two Times](https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times) | cpp | 2026-07-12 |
+| [Number of Elapsed Seconds Between Two Times](https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times) | cpp | 2026-07-12 |
+| [First Missing Positive](https://leetcode.com/problems/first-missing-positive) | cpp | 2026-07-11 |
+| [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array) | cpp | 2026-07-11 |
+| [Ugly Number](https://leetcode.com/problems/ugly-number) | cpp | 2026-07-11 |
+| [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | cpp | 2026-07-11 |
+| [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | cpp | 2026-07-11 |
+| [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses) | cpp | 2026-07-11 |
+| [Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii) | cpp | 2026-07-11 |
+| [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | cpp | 2026-07-11 |
 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list) | cpp | 2026-07-11 |
 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number) | cpp | 2026-07-11 |
 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number) | cpp | 2026-07-10 |
