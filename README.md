@@ -390,12 +390,14 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/xmohit01/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/xmohit01/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/xmohit01/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/xmohit01/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/xmohit01/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/xmohit01/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/xmohit01/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/xmohit01/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -403,6 +405,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/xmohit01/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/xmohit01/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/xmohit01/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/xmohit01/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -411,6 +414,7 @@
 |  |
 | ------- |
 | [0662-maximum-width-of-binary-tree](https://github.com/xmohit01/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/xmohit01/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
