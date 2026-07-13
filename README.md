@@ -318,6 +318,7 @@
 | [0041-first-missing-positive](https://github.com/xmohit01/LeetCode/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/xmohit01/LeetCode/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/xmohit01/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0198-house-robber](https://github.com/xmohit01/LeetCode/tree/master/0198-house-robber) |
 | [0875-koko-eating-bananas](https://github.com/xmohit01/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/xmohit01/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1094-car-pooling](https://github.com/xmohit01/LeetCode/tree/master/1094-car-pooling) |
@@ -418,6 +419,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/xmohit01/LeetCode/tree/master/0198-house-robber) |
 | [0583-delete-operation-for-two-strings](https://github.com/xmohit01/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 ## Enumeration
 |  |
