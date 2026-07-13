@@ -313,6 +313,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/xmohit01/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0016-3sum-closest](https://github.com/xmohit01/LeetCode/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/xmohit01/LeetCode/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/xmohit01/LeetCode/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/xmohit01/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -362,6 +363,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/xmohit01/LeetCode/tree/master/0016-3sum-closest) |
 | [1094-car-pooling](https://github.com/xmohit01/LeetCode/tree/master/1094-car-pooling) |
 | [1331-rank-transform-of-an-array](https://github.com/xmohit01/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Heap (Priority Queue)
@@ -416,4 +418,8 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/xmohit01/LeetCode/tree/master/1291-sequential-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/xmohit01/LeetCode/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
