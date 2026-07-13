@@ -1,25 +1,35 @@
 # LeetCode Solutions
 
-**Total Solved:** 233
+**Total Solved:** 240
 
 ### Difficulty
-- **Easy:** 126
-- **Medium:** 95
+- **Easy:** 130
+- **Medium:** 98
 - **Hard:** 12
 
 ### Languages
-- **cpp**: 232
+- **cpp**: 238
 - **javascript**: 1
+- **mysql**: 1
 
 ### Timeline
 - **Oldest Submission:** 2026-02-15
 - **Newest Submission:** 2026-07-12
-- **Last Sync:** 2026-07-12 13:33:29
+- **Last Sync:** 2026-07-13 11:27:29
 
 ## Problem List
 
 | Problem | Language | Date |
 |---|---|---|
+| [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | cpp | 2026-07-12 |
+| [Plus One](https://leetcode.com/problems/plus-one) | cpp | 2026-07-12 |
+| [Second Highest Salary](https://leetcode.com/problems/second-highest-salary) | mysql | 2026-07-12 |
+| [Second Highest Salary](https://leetcode.com/problems/second-highest-salary) | mysql | 2026-07-12 |
+| [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings) | cpp | 2026-07-12 |
+| [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree) | cpp | 2026-07-12 |
+| [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) | cpp | 2026-07-12 |
+| [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | cpp | 2026-07-12 |
+| [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | cpp | 2026-07-12 |
 | [Car Pooling](https://leetcode.com/problems/car-pooling) | cpp | 2026-07-12 |
 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) | cpp | 2026-07-12 |
 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) | cpp | 2026-07-12 |
