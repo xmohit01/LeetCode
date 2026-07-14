@@ -306,6 +306,7 @@
 | [0263-ugly-number](https://github.com/xmohit01/LeetCode/tree/master/0263-ugly-number) |
 | [0836-rectangle-overlap](https://github.com/xmohit01/LeetCode/tree/master/0836-rectangle-overlap) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/xmohit01/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/xmohit01/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Geometry
 |  |
 | ------- |
@@ -327,6 +328,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/xmohit01/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/xmohit01/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/xmohit01/LeetCode/tree/master/1901-find-a-peak-element-ii) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/xmohit01/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Binary Search
 |  |
 | ------- |
@@ -423,6 +425,7 @@
 | [0198-house-robber](https://github.com/xmohit01/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/xmohit01/LeetCode/tree/master/0213-house-robber-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/xmohit01/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/xmohit01/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Enumeration
 |  |
 | ------- |
@@ -439,4 +442,5 @@
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/xmohit01/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/xmohit01/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
