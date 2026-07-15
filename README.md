@@ -1,26 +1,42 @@
 # LeetCode Solutions
 
-**Total Solved:** 240
+**Total Solved:** 252
 
 ### Difficulty
-- **Easy:** 130
-- **Medium:** 98
-- **Hard:** 12
+- **Easy:** 131
+- **Medium:** 108
+- **Hard:** 13
 
 ### Languages
-- **cpp**: 238
+- **cpp**: 250
 - **javascript**: 1
 - **mysql**: 1
 
 ### Timeline
 - **Oldest Submission:** 2026-02-15
-- **Newest Submission:** 2026-07-12
-- **Last Sync:** 2026-07-13 11:27:29
+- **Newest Submission:** 2026-07-15
+- **Last Sync:** 2026-07-15 14:30:50
 
 ## Problem List
 
 | Problem | Language | Date |
 |---|---|---|
+| [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums) | cpp | 2026-07-15 |
+| [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums) | cpp | 2026-07-15 |
+| [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums) | cpp | 2026-07-15 |
+| [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii) | cpp | 2026-07-14 |
+| [Surrounded Regions](https://leetcode.com/problems/surrounded-regions) | cpp | 2026-07-14 |
+| [Max Area of Island](https://leetcode.com/problems/max-area-of-island) | cpp | 2026-07-14 |
+| [Number of Islands](https://leetcode.com/problems/number-of-islands) | cpp | 2026-07-14 |
+| [Find the Number of Subsequences With Equal GCD](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd) | cpp | 2026-07-14 |
+| [House Robber II](https://leetcode.com/problems/house-robber-ii) | cpp | 2026-07-13 |
+| [House Robber](https://leetcode.com/problems/house-robber) | cpp | 2026-07-13 |
+| [House Robber](https://leetcode.com/problems/house-robber) | cpp | 2026-07-13 |
+| [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree) | cpp | 2026-07-13 |
+| [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list) | cpp | 2026-07-13 |
+| [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list) | cpp | 2026-07-13 |
+| [3Sum Closest](https://leetcode.com/problems/3sum-closest) | cpp | 2026-07-13 |
+| [Sequential Digits](https://leetcode.com/problems/sequential-digits) | cpp | 2026-07-13 |
 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | cpp | 2026-07-12 |
 | [Plus One](https://leetcode.com/problems/plus-one) | cpp | 2026-07-12 |
 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary) | mysql | 2026-07-12 |
