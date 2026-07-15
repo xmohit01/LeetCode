@@ -360,6 +360,7 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/xmohit01/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0450-delete-node-in-a-bst](https://github.com/xmohit01/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -368,6 +369,7 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/xmohit01/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0450-delete-node-in-a-bst](https://github.com/xmohit01/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 ## Array
 |  |
 | ------- |
@@ -392,4 +394,8 @@
 |  |
 | ------- |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/xmohit01/LeetCode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/xmohit01/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
