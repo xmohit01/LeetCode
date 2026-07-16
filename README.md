@@ -386,6 +386,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/xmohit01/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/xmohit01/LeetCode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3701-compute-alternating-sum](https://github.com/xmohit01/LeetCode/tree/master/3701-compute-alternating-sum) |
 ## String
 |  |
 | ------- |
@@ -423,4 +424,8 @@
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/xmohit01/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/xmohit01/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Simulation
+|  |
+| ------- |
+| [3701-compute-alternating-sum](https://github.com/xmohit01/LeetCode/tree/master/3701-compute-alternating-sum) |
 <!---LeetCode Topics End-->
