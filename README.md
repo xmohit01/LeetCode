@@ -366,6 +366,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/xmohit01/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/xmohit01/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/xmohit01/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0617-merge-two-binary-trees](https://github.com/xmohit01/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/xmohit01/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/xmohit01/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
@@ -375,6 +376,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/xmohit01/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/xmohit01/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/xmohit01/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0617-merge-two-binary-trees](https://github.com/xmohit01/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/xmohit01/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
@@ -385,6 +387,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/xmohit01/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/xmohit01/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/xmohit01/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0617-merge-two-binary-trees](https://github.com/xmohit01/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/xmohit01/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/xmohit01/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Array
@@ -434,6 +437,7 @@
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/xmohit01/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0617-merge-two-binary-trees](https://github.com/xmohit01/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/xmohit01/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Simulation
 |  |
