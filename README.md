@@ -384,12 +384,14 @@
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/xmohit01/LeetCode/tree/master/0049-group-anagrams) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/xmohit01/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/xmohit01/LeetCode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3701-compute-alternating-sum](https://github.com/xmohit01/LeetCode/tree/master/3701-compute-alternating-sum) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/xmohit01/LeetCode/tree/master/0049-group-anagrams) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/xmohit01/LeetCode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Trie
 |  |
@@ -428,4 +430,12 @@
 |  |
 | ------- |
 | [3701-compute-alternating-sum](https://github.com/xmohit01/LeetCode/tree/master/3701-compute-alternating-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/xmohit01/LeetCode/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/xmohit01/LeetCode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
