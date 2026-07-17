@@ -467,4 +467,8 @@
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/xmohit01/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+## Math
+|  |
+| ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/xmohit01/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 <!---LeetCode Topics End-->
