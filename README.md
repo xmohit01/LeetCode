@@ -1,26 +1,78 @@
 # LeetCode Solutions
 
-**Total Solved:** 252
+**Total Solved:** 287
 
 ### Difficulty
-- **Easy:** 131
-- **Medium:** 108
+- **Easy:** 144
+- **Medium:** 130
 - **Hard:** 13
 
 ### Languages
-- **cpp**: 250
+- **cpp**: 285
 - **javascript**: 1
 - **mysql**: 1
 
 ### Timeline
 - **Oldest Submission:** 2026-02-15
-- **Newest Submission:** 2026-07-15
-- **Last Sync:** 2026-07-15 14:35:22
+- **Newest Submission:** 2026-07-19
+- **Last Sync:** 2026-07-19 15:16:45
 
 ## Problem List
 
 | Problem | Language | Date |
 |---|---|---|
+| [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters) | cpp | 2026-07-19 |
+| [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | cpp | 2026-07-19 |
+| [Count Dominant Nodes in a Binary Tree](https://leetcode.com/problems/count-dominant-nodes-in-a-binary-tree) | cpp | 2026-07-19 |
+| [Count Dominant Nodes in a Binary Tree](https://leetcode.com/problems/count-dominant-nodes-in-a-binary-tree) | cpp | 2026-07-19 |
+| [Even Number of Knight Moves](https://leetcode.com/problems/even-number-of-knight-moves) | cpp | 2026-07-19 |
+| [Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers) | cpp | 2026-07-19 |
+| [Hand of Straights](https://leetcode.com/problems/hand-of-straights) | cpp | 2026-07-19 |
+| [Largest Even Number](https://leetcode.com/problems/largest-even-number) | cpp | 2026-07-19 |
+| [Largest Even Number](https://leetcode.com/problems/largest-even-number) | cpp | 2026-07-19 |
+| [Minimum Adjacent Swaps to Partition Array](https://leetcode.com/problems/minimum-adjacent-swaps-to-partition-array) | cpp | 2026-07-18 |
+| [Maximum Value of an Alternating Sequence](https://leetcode.com/problems/maximum-value-of-an-alternating-sequence) | cpp | 2026-07-18 |
+| [Rearrange String to Avoid Character Pair](https://leetcode.com/problems/rearrange-string-to-avoid-character-pair) | cpp | 2026-07-18 |
+| [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) | cpp | 2026-07-18 |
+| [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node) | cpp | 2026-07-18 |
+| [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) | cpp | 2026-07-18 |
+| [Set Mismatch](https://leetcode.com/problems/set-mismatch) | cpp | 2026-07-18 |
+| [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array) | cpp | 2026-07-18 |
+| [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array) | cpp | 2026-07-18 |
+| [Ransom Note](https://leetcode.com/problems/ransom-note) | cpp | 2026-07-18 |
+| [Ransom Note](https://leetcode.com/problems/ransom-note) | cpp | 2026-07-18 |
+| [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array) | cpp | 2026-07-18 |
+| [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array) | cpp | 2026-07-18 |
+| [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes) | cpp | 2026-07-18 |
+| [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers) | cpp | 2026-07-18 |
+| [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii) | cpp | 2026-07-18 |
+| [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii) | cpp | 2026-07-18 |
+| [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array) | cpp | 2026-07-18 |
+| [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree) | cpp | 2026-07-17 |
+| [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) | cpp | 2026-07-17 |
+| [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) | cpp | 2026-07-17 |
+| [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal) | cpp | 2026-07-17 |
+| [Group Anagrams](https://leetcode.com/problems/group-anagrams) | cpp | 2026-07-17 |
+| [Group Anagrams](https://leetcode.com/problems/group-anagrams) | cpp | 2026-07-17 |
+| [Group Anagrams](https://leetcode.com/problems/group-anagrams) | cpp | 2026-07-17 |
+| [Group Anagrams](https://leetcode.com/problems/group-anagrams) | cpp | 2026-07-17 |
+| [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | cpp | 2026-07-16 |
+| [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum) | cpp | 2026-07-16 |
+| [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst) | cpp | 2026-07-16 |
+| [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes) | cpp | 2026-07-16 |
+| [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes) | cpp | 2026-07-16 |
+| [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | cpp | 2026-07-16 |
+| [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | cpp | 2026-07-16 |
+| [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | cpp | 2026-07-16 |
+| [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length) | cpp | 2026-07-16 |
+| [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length) | cpp | 2026-07-16 |
+| [Sum of GCD of Formed Pairs](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs) | cpp | 2026-07-16 |
+| [Sum of GCD of Formed Pairs](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs) | cpp | 2026-07-16 |
+| [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst) | cpp | 2026-07-15 |
+| [Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | cpp | 2026-07-15 |
+| [Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | cpp | 2026-07-15 |
+| [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list) | cpp | 2026-07-15 |
+| [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list) | cpp | 2026-07-15 |
 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums) | cpp | 2026-07-15 |
 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums) | cpp | 2026-07-15 |
 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums) | cpp | 2026-07-15 |
