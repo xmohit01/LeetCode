@@ -417,6 +417,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/xmohit01/LeetCode/tree/master/0049-group-anagrams) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/xmohit01/LeetCode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3798-largest-even-number](https://github.com/xmohit01/LeetCode/tree/master/3798-largest-even-number) |
 ## Trie
 |  |
 | ------- |
