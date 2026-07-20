@@ -364,6 +364,7 @@
 | [0316-remove-duplicate-letters](https://github.com/xmohit01/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/xmohit01/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/xmohit01/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1441-build-an-array-with-stack-operations](https://github.com/xmohit01/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Tree
 |  |
 | ------- |
@@ -421,6 +422,7 @@
 | [1109-corporate-flight-bookings](https://github.com/xmohit01/LeetCode/tree/master/1109-corporate-flight-bookings) |
 | [1260-shift-2d-grid](https://github.com/xmohit01/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/xmohit01/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/xmohit01/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/xmohit01/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2239-find-closest-number-to-zero](https://github.com/xmohit01/LeetCode/tree/master/2239-find-closest-number-to-zero) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/xmohit01/LeetCode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
@@ -479,6 +481,7 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/xmohit01/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1441-build-an-array-with-stack-operations](https://github.com/xmohit01/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [3701-compute-alternating-sum](https://github.com/xmohit01/LeetCode/tree/master/3701-compute-alternating-sum) |
 ## Hash Table
 |  |
