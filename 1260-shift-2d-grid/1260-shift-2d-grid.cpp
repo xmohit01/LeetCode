@@ -6,18 +6,15 @@ public:
 
         int idx = 0;
         vector<int> v(m * n);
+        k %= (m * n);
         for(int i = 0; i < m; i++){
             for(int j = 0; j < n ; j++){
                 v[idx++] = grid[i][j];
             }
         }
-        while(k--){
-            int temp = v[m * n - 1];
-            for(int i = m * n - 1; i > 0; i--){
-                v[i] = v[i - 1];
-            }
-            v[0] = temp;
-        }
+        reverse(v.end() - k, v.end());
+        reverse(v.begin(), v.end() - k);
+        reverse(v.begin(), v.end());
         idx = 0;
         for(int i = 0; i < m; i++){
             for(int j = 0; j < n ; j++){
