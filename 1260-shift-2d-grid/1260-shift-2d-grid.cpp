@@ -4,23 +4,22 @@ public:
         int m = grid.size();
         int n = grid[0].size();
 
-        int idx = 0;
-        vector<int> v(m * n);
-        k %= (m * n);
+        int total = m * n;
+        k %= total;
+        if(k == 0) return grid;
+
+        vector<vector<int>> ans(m, vector<int>(n));
+
         for(int i = 0; i < m; i++){
-            for(int j = 0; j < n ; j++){
-                v[idx++] = grid[i][j];
+            for(int j = 0; j < n; j++){
+                int newIdx = (i * n + j + k) % total;
+
+                int newRow = newIdx / n;
+                int newCol = newIdx % n;
+
+                ans[newRow][newCol] = grid[i][j];
             }
         }
-        reverse(v.end() - k, v.end());
-        reverse(v.begin(), v.end() - k);
-        reverse(v.begin(), v.end());
-        idx = 0;
-        for(int i = 0; i < m; i++){
-            for(int j = 0; j < n ; j++){
-                grid[i][j] = v[idx++];
-            }
-        }
-        return grid;
+        return ans;
     }
 };
