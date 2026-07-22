@@ -418,6 +418,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/xmohit01/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/xmohit01/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0274-h-index](https://github.com/xmohit01/LeetCode/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/xmohit01/LeetCode/tree/master/0275-h-index-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/xmohit01/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0436-find-right-interval](https://github.com/xmohit01/LeetCode/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/xmohit01/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -469,6 +470,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/xmohit01/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/xmohit01/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/xmohit01/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0275-h-index-ii](https://github.com/xmohit01/LeetCode/tree/master/0275-h-index-ii) |
 | [0367-valid-perfect-square](https://github.com/xmohit01/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0436-find-right-interval](https://github.com/xmohit01/LeetCode/tree/master/0436-find-right-interval) |
 | [0450-delete-node-in-a-bst](https://github.com/xmohit01/LeetCode/tree/master/0450-delete-node-in-a-bst) |
