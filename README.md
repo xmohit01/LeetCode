@@ -417,6 +417,7 @@
 | [0049-group-anagrams](https://github.com/xmohit01/LeetCode/tree/master/0049-group-anagrams) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/xmohit01/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/xmohit01/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0274-h-index](https://github.com/xmohit01/LeetCode/tree/master/0274-h-index) |
 | [0334-increasing-triplet-subsequence](https://github.com/xmohit01/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0436-find-right-interval](https://github.com/xmohit01/LeetCode/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/xmohit01/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -507,6 +508,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/xmohit01/LeetCode/tree/master/0049-group-anagrams) |
+| [0274-h-index](https://github.com/xmohit01/LeetCode/tree/master/0274-h-index) |
 | [0436-find-right-interval](https://github.com/xmohit01/LeetCode/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/xmohit01/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/xmohit01/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -541,6 +543,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/xmohit01/LeetCode/tree/master/0274-h-index) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/xmohit01/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Design
 |  |
