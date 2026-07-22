@@ -468,6 +468,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/xmohit01/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/xmohit01/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/xmohit01/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0367-valid-perfect-square](https://github.com/xmohit01/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0436-find-right-interval](https://github.com/xmohit01/LeetCode/tree/master/0436-find-right-interval) |
 | [0450-delete-node-in-a-bst](https://github.com/xmohit01/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/xmohit01/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -530,6 +531,7 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/xmohit01/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/xmohit01/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
+| [0367-valid-perfect-square](https://github.com/xmohit01/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1137-n-th-tribonacci-number](https://github.com/xmohit01/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/xmohit01/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
