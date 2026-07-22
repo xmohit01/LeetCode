@@ -424,6 +424,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/xmohit01/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1109-corporate-flight-bookings](https://github.com/xmohit01/LeetCode/tree/master/1109-corporate-flight-bookings) |
 | [1260-shift-2d-grid](https://github.com/xmohit01/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/xmohit01/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/xmohit01/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/xmohit01/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/xmohit01/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -472,6 +473,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/xmohit01/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/xmohit01/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/xmohit01/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/xmohit01/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -557,6 +559,7 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/xmohit01/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/xmohit01/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
