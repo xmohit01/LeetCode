@@ -424,6 +424,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/xmohit01/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/xmohit01/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/xmohit01/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0994-rotting-oranges](https://github.com/xmohit01/LeetCode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/xmohit01/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1109-corporate-flight-bookings](https://github.com/xmohit01/LeetCode/tree/master/1109-corporate-flight-bookings) |
 | [1260-shift-2d-grid](https://github.com/xmohit01/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -492,6 +493,7 @@
 | [0617-merge-two-binary-trees](https://github.com/xmohit01/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/xmohit01/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/xmohit01/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0994-rotting-oranges](https://github.com/xmohit01/LeetCode/tree/master/0994-rotting-oranges) |
 ## Simulation
 |  |
 | ------- |
@@ -569,6 +571,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/xmohit01/LeetCode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/xmohit01/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/xmohit01/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Dynamic Programming
