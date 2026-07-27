@@ -384,6 +384,7 @@
 | [0617-merge-two-binary-trees](https://github.com/xmohit01/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/xmohit01/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/xmohit01/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0872-leaf-similar-trees](https://github.com/xmohit01/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/xmohit01/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/xmohit01/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -401,6 +402,7 @@
 | [0617-merge-two-binary-trees](https://github.com/xmohit01/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/xmohit01/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/xmohit01/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0872-leaf-similar-trees](https://github.com/xmohit01/LeetCode/tree/master/0872-leaf-similar-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -418,6 +420,7 @@
 | [0617-merge-two-binary-trees](https://github.com/xmohit01/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/xmohit01/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/xmohit01/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0872-leaf-similar-trees](https://github.com/xmohit01/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/xmohit01/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/xmohit01/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 ## Array
