@@ -601,6 +601,7 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/xmohit01/LeetCode/tree/master/0338-counting-bits) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/xmohit01/LeetCode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Memoization
 |  |
 | ------- |
