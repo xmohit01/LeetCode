@@ -440,6 +440,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/xmohit01/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/xmohit01/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/xmohit01/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/xmohit01/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/xmohit01/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/xmohit01/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2239-find-closest-number-to-zero](https://github.com/xmohit01/LeetCode/tree/master/2239-find-closest-number-to-zero) |
@@ -529,6 +530,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/xmohit01/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/xmohit01/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/xmohit01/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/xmohit01/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/xmohit01/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Monotonic Stack
 |  |
@@ -615,4 +617,8 @@
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/xmohit01/LeetCode/tree/master/0394-decode-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/xmohit01/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
