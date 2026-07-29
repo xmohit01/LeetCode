@@ -565,6 +565,7 @@
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/xmohit01/LeetCode/tree/master/0060-permutation-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/xmohit01/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/xmohit01/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0367-valid-perfect-square](https://github.com/xmohit01/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -634,6 +635,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/xmohit01/LeetCode/tree/master/0060-permutation-sequence) |
 | [0394-decode-string](https://github.com/xmohit01/LeetCode/tree/master/0394-decode-string) |
 ## Heap (Priority Queue)
 |  |
