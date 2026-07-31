@@ -355,6 +355,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/xmohit01/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/xmohit01/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/xmohit01/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/xmohit01/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -367,6 +368,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/xmohit01/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/xmohit01/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/xmohit01/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/xmohit01/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -567,6 +569,7 @@
 | [0392-is-subsequence](https://github.com/xmohit01/LeetCode/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/xmohit01/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/xmohit01/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/xmohit01/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/xmohit01/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Math
 |  |
