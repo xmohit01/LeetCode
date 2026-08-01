@@ -351,6 +351,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/xmohit01/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/xmohit01/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/xmohit01/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/xmohit01/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -574,6 +575,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/xmohit01/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/xmohit01/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0165-compare-version-numbers](https://github.com/xmohit01/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0345-reverse-vowels-of-a-string](https://github.com/xmohit01/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
