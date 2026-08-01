@@ -355,6 +355,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/xmohit01/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/xmohit01/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/xmohit01/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/xmohit01/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/xmohit01/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/xmohit01/LeetCode/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/xmohit01/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -381,6 +382,7 @@
 | [0110-balanced-binary-tree](https://github.com/xmohit01/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/xmohit01/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/xmohit01/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/xmohit01/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/xmohit01/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/xmohit01/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/xmohit01/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -401,6 +403,7 @@
 | [0110-balanced-binary-tree](https://github.com/xmohit01/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/xmohit01/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/xmohit01/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/xmohit01/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/xmohit01/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/xmohit01/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/xmohit01/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -418,6 +421,7 @@
 | [0110-balanced-binary-tree](https://github.com/xmohit01/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/xmohit01/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/xmohit01/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/xmohit01/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/xmohit01/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/xmohit01/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/xmohit01/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -520,6 +524,7 @@
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/xmohit01/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/xmohit01/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/xmohit01/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/xmohit01/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/xmohit01/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
