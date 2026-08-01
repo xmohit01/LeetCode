@@ -356,6 +356,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/xmohit01/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/xmohit01/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0725-split-linked-list-in-parts](https://github.com/xmohit01/LeetCode/tree/master/0725-split-linked-list-in-parts) |
+| [2074-reverse-nodes-in-even-length-groups](https://github.com/xmohit01/LeetCode/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/xmohit01/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/xmohit01/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Stack
