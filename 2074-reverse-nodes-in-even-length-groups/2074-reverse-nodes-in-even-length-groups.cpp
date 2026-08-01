@@ -24,10 +24,10 @@ public:
         int size = 1;
 
         while(curr != NULL){
-            int actualLength = min(size, nodes);
+            int currSize = min(size, nodes);
 
-            if(actualLength % 2 == 1){
-                for(int i = 0; i < actualLength && curr != NULL; i++){
+            if(currSize % 2 == 1){
+                for(int i = 0; i < currSize && curr != NULL; i++){
                     prev = curr;
                     curr = curr->next;
                 }
@@ -35,7 +35,7 @@ public:
             else{
                 ListNode* prevLast = prev;
                 ListNode* prevCurr = curr;
-                for(int i = 0; i < actualLength && curr != NULL; i++){
+                for(int i = 0; i < currSize && curr != NULL; i++){
                     next = curr->next;
                     curr->next = prev;
 
