@@ -452,6 +452,7 @@
 | [0079-word-search](https://github.com/xmohit01/LeetCode/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/xmohit01/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/xmohit01/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/xmohit01/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0274-h-index](https://github.com/xmohit01/LeetCode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/xmohit01/LeetCode/tree/master/0275-h-index-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/xmohit01/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
@@ -515,6 +516,7 @@
 | [0099-recover-binary-search-tree](https://github.com/xmohit01/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/xmohit01/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/xmohit01/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/xmohit01/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0173-binary-search-tree-iterator](https://github.com/xmohit01/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/xmohit01/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0275-h-index-ii](https://github.com/xmohit01/LeetCode/tree/master/0275-h-index-ii) |
