@@ -54,14 +54,9 @@ public:
         }
 
         if(size1 < size2 && size1 > 0){
-            secondHalf[size2 - 2]->next = secondHalf[size2 - 1]; 
+            secondHalf[size2 - 2]->next = secondHalf[size2 - 1];
         }
 
-        if(count % 2 == 0){
-            secondHalf[secondHalf.size() - 1]->next = NULL;
-        }
-        else{
-            secondHalf[secondHalf.size() - 1]->next = NULL;
-        }
+        secondHalf[secondHalf.size() - 1]->next = NULL;
     }
 };
