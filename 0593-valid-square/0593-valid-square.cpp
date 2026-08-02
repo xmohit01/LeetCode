@@ -15,8 +15,8 @@ public:
         int dist6 = distance(p3, p4);
 
         unordered_map<int, int> m;
-        for(int d : {dist1, dist2, dist3, dist4, dist5, dist6}){
-            m[d]++;
+        for(int dist : {dist1, dist2, dist3, dist4, dist5, dist6}){
+            m[dist]++;
         }
 
         if(m.size() != 2) return false;
