@@ -444,6 +444,7 @@
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/xmohit01/LeetCode/tree/master/0036-valid-sudoku) |
 | [0047-permutations-ii](https://github.com/xmohit01/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/xmohit01/LeetCode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/xmohit01/LeetCode/tree/master/0079-word-search) |
@@ -555,6 +556,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/xmohit01/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/xmohit01/LeetCode/tree/master/0049-group-anagrams) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/xmohit01/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/xmohit01/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -641,6 +643,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/xmohit01/LeetCode/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/xmohit01/LeetCode/tree/master/0079-word-search) |
 | [0994-rotting-oranges](https://github.com/xmohit01/LeetCode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/xmohit01/LeetCode/tree/master/1260-shift-2d-grid) |
