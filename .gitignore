@@ -1,0 +1,25 @@
+# Environment variables
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.pytest_cache/
+
+# SQLite Database
+state.db
+state.db-journal
+
+# Logs
+*.log
+
+# Scratch scripts
+fetch_profile.py
+fetch_queries.py
+export.json
+export.csv

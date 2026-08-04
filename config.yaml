@@ -1,0 +1,20 @@
+app:
+  # options: underscore (e.g. 0001_Two_Sum), dot (e.g. 0001. Two Sum)
+  folder_format: underscore 
+  default_language: cpp
+
+download:
+  workers: 4
+  max_retries: 5
+  retry_base_backoff: 1.0
+
+git:
+  auto_push: true
+  repository_path: .
+  branch: main
+
+readme:
+  badges: true
+
+logging:
+  level: INFO

@@ -1,0 +1,9 @@
+version: '3.8'
+services:
+  leetcode-sync:
+    build: .
+    volumes:
+      - ./solutions:/app/solutions
+      - ./state.db:/app/state.db
+      - ./.env:/app/.env
+      - ./config.yaml:/app/config.yaml
