@@ -524,6 +524,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/xmohit01/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/xmohit01/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/xmohit01/LeetCode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3163-string-compression-iii](https://github.com/xmohit01/LeetCode/tree/master/3163-string-compression-iii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/xmohit01/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3798-largest-even-number](https://github.com/xmohit01/LeetCode/tree/master/3798-largest-even-number) |
 ## Trie
