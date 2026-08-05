@@ -381,6 +381,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/xmohit01/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/xmohit01/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/xmohit01/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/xmohit01/LeetCode/tree/master/0086-partition-list) |
@@ -574,6 +575,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/xmohit01/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/xmohit01/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/xmohit01/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Breadth-First Search
@@ -737,6 +739,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/xmohit01/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/xmohit01/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2679-sum-in-a-matrix](https://github.com/xmohit01/LeetCode/tree/master/2679-sum-in-a-matrix) |
 ## Graph Theory
@@ -747,4 +750,12 @@
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/xmohit01/LeetCode/tree/master/0593-valid-square) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/xmohit01/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/xmohit01/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
