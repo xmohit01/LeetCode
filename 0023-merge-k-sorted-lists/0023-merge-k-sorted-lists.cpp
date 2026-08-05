@@ -10,7 +10,7 @@
  */
 class Solution {
 public:
-    ListNode* helper(vector<ListNode*>& lists){
+    ListNode* mergeKLists(vector<ListNode*>& lists) {
         int mini = INT_MAX;
         int idx = -1;
         for(int i = 0; i < lists.size(); i++){
@@ -24,11 +24,7 @@ public:
 
         lists[idx] = lists[idx]->next;
         ListNode* newNode = new ListNode(mini);
-        newNode->next = helper(lists);
+        newNode->next = mergeKLists(lists);
         return newNode;
-    }
-
-    ListNode* mergeKLists(vector<ListNode*>& lists) {
-        return helper(lists);
     }
 };
