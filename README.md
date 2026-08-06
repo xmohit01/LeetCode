@@ -519,6 +519,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/xmohit01/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/xmohit01/LeetCode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/xmohit01/LeetCode/tree/master/0079-word-search) |
 | [0165-compare-version-numbers](https://github.com/xmohit01/LeetCode/tree/master/0165-compare-version-numbers) |
@@ -709,6 +710,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/xmohit01/LeetCode/tree/master/0022-generate-parentheses) |
 | [0152-maximum-product-subarray](https://github.com/xmohit01/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/xmohit01/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/xmohit01/LeetCode/tree/master/0392-is-subsequence) |
@@ -729,6 +731,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/xmohit01/LeetCode/tree/master/0022-generate-parentheses) |
 | [0047-permutations-ii](https://github.com/xmohit01/LeetCode/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/xmohit01/LeetCode/tree/master/0079-word-search) |
 ## Recursion
@@ -763,4 +766,8 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/xmohit01/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/xmohit01/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
