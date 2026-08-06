@@ -10,21 +10,34 @@
  */
 class Solution {
 public:
+    struct compare{
+        bool operator()(const ListNode* l, const ListNode* r){
+            return l->val > r->val;
+        }
+    };
+
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        int mini = INT_MAX;
-        int idx = -1;
-        for(int i = 0; i < lists.size(); i++){
-            if(lists[i] != NULL && lists[i]->val < mini){
-                mini = lists[i]->val;
-                idx = i;
+        priority_queue<ListNode*, vector<ListNode*>, compare> pq;
+
+        for(auto& list : lists){
+            if(list != NULL){
+                pq.push(list);
             }
         }
 
-        if(idx == -1) return NULL;
+        ListNode* dummy = new ListNode(0);
+        ListNode* tail = dummy;
 
-        lists[idx] = lists[idx]->next;
-        ListNode* newNode = new ListNode(mini);
-        newNode->next = mergeKLists(lists);
-        return newNode;
+        while(!pq.empty()){
+            ListNode* currNode = pq.top();
+            pq.pop();
+
+            tail->next = currNode;
+            tail = tail->next;
+
+            if(currNode->next != NULL) pq.push(currNode->next);
+        }
+        
+        return dummy->next;
     }
 };
