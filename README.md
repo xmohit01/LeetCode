@@ -391,6 +391,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/xmohit01/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/xmohit01/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0143-reorder-list](https://github.com/xmohit01/LeetCode/tree/master/0143-reorder-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/xmohit01/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/xmohit01/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/xmohit01/LeetCode/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/xmohit01/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
