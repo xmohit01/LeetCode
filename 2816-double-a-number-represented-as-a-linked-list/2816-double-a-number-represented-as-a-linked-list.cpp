@@ -11,30 +11,22 @@
 class Solution {
 public:
     ListNode* doubleIt(ListNode* head) {
-        vector<int> vec;
+        if(head->val >= 5){
+            ListNode* newNode = new ListNode(0);
+            newNode->next = head;
+            head = newNode;
+        }
 
-        ListNode* temp = head;
-        while(temp != NULL){
-            vec.push_back(temp->val);
-            temp = temp->next;
-        }
-        int carry = 0;
-        for(int i = vec.size() - 1; i >= 0; i--){
-            vec[i] *= 2;
-            vec[i] += carry;
-            carry = vec[i] / 10;
-            vec[i] = vec[i] % 10;
-        }
-        temp = head;
-        int i = 0;
-        while(temp != NULL){
-            temp->val = vec[i++];
-            temp = temp->next;
-        }
-        if(carry == 0) return head;
+        ListNode* currNode = head;
+        while(currNode != NULL){
+            currNode->val = (currNode->val * 2) % 10;
 
-        ListNode* newHead = new ListNode(carry);
-        newHead->next = head;
-        return newHead;
+            if(currNode->next != NULL && currNode->next->val >= 5){
+                currNode->val += 1;
+            }
+
+            currNode = currNode->next;
+        }
+        return head;
     }
 };
