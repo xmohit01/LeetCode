@@ -505,6 +505,7 @@
 | [0274-h-index](https://github.com/xmohit01/LeetCode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/xmohit01/LeetCode/tree/master/0275-h-index-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/xmohit01/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/xmohit01/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0436-find-right-interval](https://github.com/xmohit01/LeetCode/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/xmohit01/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/xmohit01/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -577,6 +578,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/xmohit01/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/xmohit01/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0275-h-index-ii](https://github.com/xmohit01/LeetCode/tree/master/0275-h-index-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/xmohit01/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/xmohit01/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0436-find-right-interval](https://github.com/xmohit01/LeetCode/tree/master/0436-find-right-interval) |
 | [0450-delete-node-in-a-bst](https://github.com/xmohit01/LeetCode/tree/master/0450-delete-node-in-a-bst) |
@@ -624,6 +626,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/xmohit01/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/xmohit01/LeetCode/tree/master/0049-group-anagrams) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/xmohit01/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/xmohit01/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/xmohit01/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/xmohit01/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -639,6 +642,7 @@
 | [0047-permutations-ii](https://github.com/xmohit01/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/xmohit01/LeetCode/tree/master/0049-group-anagrams) |
 | [0274-h-index](https://github.com/xmohit01/LeetCode/tree/master/0274-h-index) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/xmohit01/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0436-find-right-interval](https://github.com/xmohit01/LeetCode/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/xmohit01/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/xmohit01/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -666,6 +670,7 @@
 | [0165-compare-version-numbers](https://github.com/xmohit01/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/xmohit01/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/xmohit01/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/xmohit01/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/xmohit01/LeetCode/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/xmohit01/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/xmohit01/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
