@@ -2,7 +2,7 @@ class Solution {
 public:
     int n;
     int helper(vector<vector<int>>& grid, int lastIdx, int currIdx, vector<vector<int>>& dp){
-        if(dp[currIdx][lastIdx + 1] != -1) return dp[currIdx][lastIdx + 1];
+        if(dp[currIdx][lastIdx + 1] != -100000) return dp[currIdx][lastIdx + 1];
         if(currIdx == 0){
             int mini = INT_MAX;
 
@@ -29,7 +29,7 @@ public:
 
     int minFallingPathSum(vector<vector<int>>& grid) {
         n = grid.size();
-        vector<vector<int>> dp(n, vector<int>(n + 1, -1));
+        vector<vector<int>> dp(n, vector<int>(n + 1, -100000));
 
         return helper(grid, -1, n - 1, dp);
     }
