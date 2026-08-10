@@ -520,6 +520,7 @@
 | [0436-find-right-interval](https://github.com/xmohit01/LeetCode/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/xmohit01/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/xmohit01/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0566-reshape-the-matrix](https://github.com/xmohit01/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/xmohit01/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/xmohit01/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/xmohit01/LeetCode/tree/master/0735-asteroid-collision) |
@@ -629,6 +630,7 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/xmohit01/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0566-reshape-the-matrix](https://github.com/xmohit01/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/xmohit01/LeetCode/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/xmohit01/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/xmohit01/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -750,6 +752,7 @@
 | [0036-valid-sudoku](https://github.com/xmohit01/LeetCode/tree/master/0036-valid-sudoku) |
 | [0059-spiral-matrix-ii](https://github.com/xmohit01/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/xmohit01/LeetCode/tree/master/0079-word-search) |
+| [0566-reshape-the-matrix](https://github.com/xmohit01/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0994-rotting-oranges](https://github.com/xmohit01/LeetCode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/xmohit01/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/xmohit01/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
