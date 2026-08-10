@@ -11,8 +11,16 @@
 class Solution {
 public:
     ListNode* merge(ListNode* head1, ListNode* head2){
-        ListNode* dummy = new ListNode(0);
-        ListNode* temp = dummy;
+        ListNode* sortedHead;
+        if(head1->val <= head2->val){
+            sortedHead = head1;
+            head1 = head1->next;
+        }
+        else{
+            sortedHead = head2;
+            head2 = head2->next;
+        }
+        ListNode* temp = sortedHead;
 
         while(head1 != NULL && head2 != NULL){
             if(head1->val <= head2->val){
@@ -33,8 +41,6 @@ public:
             temp->next = head2;
         }
 
-        ListNode* sortedHead = dummy->next;
-        delete dummy;
         return sortedHead;
     }
 
