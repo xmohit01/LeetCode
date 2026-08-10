@@ -38,36 +38,28 @@ public:
         return sortedHead;
     }
 
-    ListNode* mergeSort(ListNode* head, int st, int end){
-        if(st >= end) return head;
+    ListNode* getMid(ListNode* head){
+        ListNode* slow = head;
+        ListNode* fast = head->next;
 
-        int mid = st + (end - st) / 2;
-        ListNode* prev = NULL;
-        ListNode* temp = head;
-
-        int countOfLeftHalf = mid - st + 1;
-        for(int i = 0; i < countOfLeftHalf; i++){
-            prev = temp;
-            temp = temp->next;
+        while(fast != NULL && fast->next != NULL){
+            slow = slow->next;
+            fast = fast->next->next;
         }
-        prev->next = NULL;
 
-        ListNode* list1 = mergeSort(head, st, mid);
-        ListNode* list2 = mergeSort(temp, mid + 1, end);
-
-        return merge(list1, list2);
+        return slow;
     }
 
     ListNode* sortList(ListNode* head) {
         if(head == NULL || head->next == NULL) return head;
 
-        int n = 0;
-        ListNode* temp = head;
-        while(temp != NULL){
-            n++;
-            temp = temp->next;
-        }
+        ListNode* mid = getMid(head);
+        ListNode* rightHead = mid->next;
+        mid->next = NULL;
 
-        return mergeSort(head, 0, n - 1);
+        ListNode* leftSorted = sortList(head);
+        ListNode* rightSorted = sortList(rightHead);
+
+        return merge(leftSorted, rightSorted);
     }
 };
