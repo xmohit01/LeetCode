@@ -14,25 +14,18 @@ public:
     void helper(TreeNode* root, int targetSum, vector<vector<int>>& ans, vector<int>& vec){
         if(root == NULL) return;
 
-        if(root->left == NULL && root->right == NULL){
-            if(targetSum == root->val){
-                vec.push_back(root->val);
-                ans.push_back(vec);
-                vec.pop_back();
-                return;
-            }
+        vec.push_back(root->val);
+
+        if(root->left == NULL && root->right == NULL && targetSum == root->val){
+            ans.push_back(vec);
         }
 
-        if(root->left != NULL){
-            vec.push_back(root->val);
+        else{
             helper(root->left, targetSum - root->val, ans, vec);
-            vec.pop_back();
-        }
-        if(root->right != NULL){
-            vec.push_back(root->val);
             helper(root->right, targetSum - root->val, ans, vec);
-            vec.pop_back();
         }
+        
+        vec.pop_back();
     }
 
     vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
