@@ -519,6 +519,7 @@
 | [0064-minimum-path-sum](https://github.com/xmohit01/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/xmohit01/LeetCode/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/xmohit01/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0120-triangle](https://github.com/xmohit01/LeetCode/tree/master/0120-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/xmohit01/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/xmohit01/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/xmohit01/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -786,6 +787,7 @@
 | [0022-generate-parentheses](https://github.com/xmohit01/LeetCode/tree/master/0022-generate-parentheses) |
 | [0063-unique-paths-ii](https://github.com/xmohit01/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/xmohit01/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/xmohit01/LeetCode/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/xmohit01/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/xmohit01/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/xmohit01/LeetCode/tree/master/0392-is-subsequence) |
