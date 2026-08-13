@@ -563,6 +563,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/xmohit01/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0022-generate-parentheses](https://github.com/xmohit01/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/xmohit01/LeetCode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/xmohit01/LeetCode/tree/master/0079-word-search) |
