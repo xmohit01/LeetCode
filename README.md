@@ -523,6 +523,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/xmohit01/LeetCode/tree/master/0036-valid-sudoku) |
+| [0045-jump-game-ii](https://github.com/xmohit01/LeetCode/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/xmohit01/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/xmohit01/LeetCode/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/xmohit01/LeetCode/tree/master/0059-spiral-matrix-ii) |
@@ -778,6 +779,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/xmohit01/LeetCode/tree/master/0045-jump-game-ii) |
 | [0316-remove-duplicate-letters](https://github.com/xmohit01/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/xmohit01/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/xmohit01/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -808,6 +810,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/xmohit01/LeetCode/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/xmohit01/LeetCode/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/xmohit01/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/xmohit01/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/xmohit01/LeetCode/tree/master/0120-triangle) |
