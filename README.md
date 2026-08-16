@@ -393,6 +393,7 @@
 | [0143-reorder-list](https://github.com/xmohit01/LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/xmohit01/LeetCode/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/xmohit01/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0382-linked-list-random-node](https://github.com/xmohit01/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0725-split-linked-list-in-parts](https://github.com/xmohit01/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/xmohit01/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/xmohit01/LeetCode/tree/master/2074-reverse-nodes-in-even-length-groups) |
@@ -754,6 +755,7 @@
 | [0168-excel-sheet-column-title](https://github.com/xmohit01/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/xmohit01/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0367-valid-perfect-square](https://github.com/xmohit01/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0382-linked-list-random-node](https://github.com/xmohit01/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0509-fibonacci-number](https://github.com/xmohit01/LeetCode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/xmohit01/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0593-valid-square](https://github.com/xmohit01/LeetCode/tree/master/0593-valid-square) |
@@ -899,4 +901,12 @@
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/xmohit01/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/xmohit01/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/xmohit01/LeetCode/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/xmohit01/LeetCode/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
