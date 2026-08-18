@@ -548,6 +548,7 @@
 | [0275-h-index-ii](https://github.com/xmohit01/LeetCode/tree/master/0275-h-index-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/xmohit01/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/xmohit01/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/xmohit01/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0436-find-right-interval](https://github.com/xmohit01/LeetCode/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/xmohit01/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/xmohit01/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -836,6 +837,7 @@
 | [0152-maximum-product-subarray](https://github.com/xmohit01/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/xmohit01/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/xmohit01/LeetCode/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/xmohit01/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/xmohit01/LeetCode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/xmohit01/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1137-n-th-tribonacci-number](https://github.com/xmohit01/LeetCode/tree/master/1137-n-th-tribonacci-number) |
@@ -930,4 +932,12 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/xmohit01/LeetCode/tree/master/0204-count-primes) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/xmohit01/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/xmohit01/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
