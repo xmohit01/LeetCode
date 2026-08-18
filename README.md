@@ -543,6 +543,7 @@
 | [0152-maximum-product-subarray](https://github.com/xmohit01/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/xmohit01/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/xmohit01/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0204-count-primes](https://github.com/xmohit01/LeetCode/tree/master/0204-count-primes) |
 | [0274-h-index](https://github.com/xmohit01/LeetCode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/xmohit01/LeetCode/tree/master/0275-h-index-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/xmohit01/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
@@ -754,6 +755,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/xmohit01/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/xmohit01/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/xmohit01/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
+| [0204-count-primes](https://github.com/xmohit01/LeetCode/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/xmohit01/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0382-linked-list-random-node](https://github.com/xmohit01/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0509-fibonacci-number](https://github.com/xmohit01/LeetCode/tree/master/0509-fibonacci-number) |
@@ -771,6 +773,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/xmohit01/LeetCode/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/xmohit01/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Counting Sort
 |  |
@@ -890,6 +893,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/xmohit01/LeetCode/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/xmohit01/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Bracket Sequences
 |  |
@@ -909,4 +913,16 @@
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/xmohit01/LeetCode/tree/master/0382-linked-list-random-node) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/xmohit01/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/xmohit01/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/xmohit01/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
