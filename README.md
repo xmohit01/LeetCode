@@ -591,6 +591,7 @@
 | [0079-word-search](https://github.com/xmohit01/LeetCode/tree/master/0079-word-search) |
 | [0165-compare-version-numbers](https://github.com/xmohit01/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/xmohit01/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0290-word-pattern](https://github.com/xmohit01/LeetCode/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/xmohit01/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/xmohit01/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/xmohit01/LeetCode/tree/master/0392-is-subsequence) |
@@ -695,6 +696,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/xmohit01/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/xmohit01/LeetCode/tree/master/0049-group-anagrams) |
+| [0290-word-pattern](https://github.com/xmohit01/LeetCode/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/xmohit01/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/xmohit01/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/xmohit01/LeetCode/tree/master/0523-continuous-subarray-sum) |
