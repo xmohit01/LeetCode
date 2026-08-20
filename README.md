@@ -578,6 +578,7 @@
 | [2679-sum-in-a-matrix](https://github.com/xmohit01/LeetCode/tree/master/2679-sum-in-a-matrix) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/xmohit01/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/xmohit01/LeetCode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/xmohit01/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/xmohit01/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/xmohit01/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3701-compute-alternating-sum](https://github.com/xmohit01/LeetCode/tree/master/3701-compute-alternating-sum) |
@@ -690,6 +691,7 @@
 | [2181-merge-nodes-in-between-zeros](https://github.com/xmohit01/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2352-equal-row-and-column-pairs](https://github.com/xmohit01/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2679-sum-in-a-matrix](https://github.com/xmohit01/LeetCode/tree/master/2679-sum-in-a-matrix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/xmohit01/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3701-compute-alternating-sum](https://github.com/xmohit01/LeetCode/tree/master/3701-compute-alternating-sum) |
 ## Hash Table
 |  |
