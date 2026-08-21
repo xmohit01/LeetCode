@@ -451,6 +451,7 @@
 | [0623-add-one-row-to-tree](https://github.com/xmohit01/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/xmohit01/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/xmohit01/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
+| [0687-longest-univalue-path](https://github.com/xmohit01/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/xmohit01/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/xmohit01/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/xmohit01/LeetCode/tree/master/0872-leaf-similar-trees) |
@@ -483,6 +484,7 @@
 | [0623-add-one-row-to-tree](https://github.com/xmohit01/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/xmohit01/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/xmohit01/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
+| [0687-longest-univalue-path](https://github.com/xmohit01/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/xmohit01/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/xmohit01/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/xmohit01/LeetCode/tree/master/0872-leaf-similar-trees) |
@@ -518,6 +520,7 @@
 | [0623-add-one-row-to-tree](https://github.com/xmohit01/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/xmohit01/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/xmohit01/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
+| [0687-longest-univalue-path](https://github.com/xmohit01/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/xmohit01/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/xmohit01/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/xmohit01/LeetCode/tree/master/0872-leaf-similar-trees) |
@@ -966,4 +969,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/xmohit01/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## DP on Trees
+|  |
+| ------- |
+| [0687-longest-univalue-path](https://github.com/xmohit01/LeetCode/tree/master/0687-longest-univalue-path) |
 <!---LeetCode Topics End-->
