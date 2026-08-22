@@ -462,6 +462,7 @@
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/xmohit01/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1609-even-odd-tree](https://github.com/xmohit01/LeetCode/tree/master/1609-even-odd-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/xmohit01/LeetCode/tree/master/2236-root-equals-sum-of-children) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/xmohit01/LeetCode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -533,6 +534,7 @@
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/xmohit01/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1609-even-odd-tree](https://github.com/xmohit01/LeetCode/tree/master/1609-even-odd-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/xmohit01/LeetCode/tree/master/2236-root-equals-sum-of-children) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/xmohit01/LeetCode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Array
 |  |
 | ------- |
@@ -690,6 +692,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/xmohit01/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/xmohit01/LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1609-even-odd-tree](https://github.com/xmohit01/LeetCode/tree/master/1609-even-odd-tree) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/xmohit01/LeetCode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Simulation
 |  |
 | ------- |
