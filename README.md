@@ -396,6 +396,7 @@
 | [0382-linked-list-random-node](https://github.com/xmohit01/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0725-split-linked-list-in-parts](https://github.com/xmohit01/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/xmohit01/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1797-design-authentication-manager](https://github.com/xmohit01/LeetCode/tree/master/1797-design-authentication-manager) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/xmohit01/LeetCode/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/xmohit01/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/xmohit01/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
@@ -724,6 +725,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/xmohit01/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/xmohit01/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/xmohit01/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1797-design-authentication-manager](https://github.com/xmohit01/LeetCode/tree/master/1797-design-authentication-manager) |
 | [2352-equal-row-and-column-pairs](https://github.com/xmohit01/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/xmohit01/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/xmohit01/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -817,6 +819,7 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/xmohit01/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [1797-design-authentication-manager](https://github.com/xmohit01/LeetCode/tree/master/1797-design-authentication-manager) |
 ## Iterator
 |  |
 | ------- |
@@ -987,4 +990,8 @@
 | ------- |
 | [0508-most-frequent-subtree-sum](https://github.com/xmohit01/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0687-longest-univalue-path](https://github.com/xmohit01/LeetCode/tree/master/0687-longest-univalue-path) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1797-design-authentication-manager](https://github.com/xmohit01/LeetCode/tree/master/1797-design-authentication-manager) |
 <!---LeetCode Topics End-->
