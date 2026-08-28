@@ -394,6 +394,7 @@
 | [0148-sort-list](https://github.com/xmohit01/LeetCode/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/xmohit01/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0382-linked-list-random-node](https://github.com/xmohit01/LeetCode/tree/master/0382-linked-list-random-node) |
+| [0705-design-hashset](https://github.com/xmohit01/LeetCode/tree/master/0705-design-hashset) |
 | [0725-split-linked-list-in-parts](https://github.com/xmohit01/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/xmohit01/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1797-design-authentication-manager](https://github.com/xmohit01/LeetCode/tree/master/1797-design-authentication-manager) |
@@ -568,6 +569,7 @@
 | [0566-reshape-the-matrix](https://github.com/xmohit01/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/xmohit01/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/xmohit01/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0705-design-hashset](https://github.com/xmohit01/LeetCode/tree/master/0705-design-hashset) |
 | [0735-asteroid-collision](https://github.com/xmohit01/LeetCode/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/xmohit01/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0994-rotting-oranges](https://github.com/xmohit01/LeetCode/tree/master/0994-rotting-oranges) |
@@ -637,6 +639,7 @@
 ## Hash Function
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/xmohit01/LeetCode/tree/master/0705-design-hashset) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/xmohit01/LeetCode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Binary Search Tree
 |  |
@@ -721,6 +724,7 @@
 | [0523-continuous-subarray-sum](https://github.com/xmohit01/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/xmohit01/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/xmohit01/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0705-design-hashset](https://github.com/xmohit01/LeetCode/tree/master/0705-design-hashset) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/xmohit01/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/xmohit01/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/xmohit01/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -819,6 +823,7 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/xmohit01/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0705-design-hashset](https://github.com/xmohit01/LeetCode/tree/master/0705-design-hashset) |
 | [1797-design-authentication-manager](https://github.com/xmohit01/LeetCode/tree/master/1797-design-authentication-manager) |
 ## Iterator
 |  |
