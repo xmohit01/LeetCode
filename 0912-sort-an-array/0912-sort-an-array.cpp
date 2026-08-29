@@ -1,42 +1,36 @@
 class Solution {
 public:
-    void merge(vector<int>& nums, int st, int end, int mid){
-        vector<int> vec;
+    int partition(vector<int>& nums, int st, int end){
+        int mid = st + (end - st) / 2;
+        int pivot = nums[mid];
 
-        int i = st, j = mid + 1;
+        int i = st;
+        int j = end;
 
-        while(i <= mid && j <= end){
-            if(nums[i] < nums[j]){
-                vec.push_back(nums[i++]);
+        while(i <= j){
+            while(nums[i] < pivot) i++;
+            while(nums[j] > pivot) j--;
+
+            if(i <= j) {
+                swap(nums[i++], nums[j--]);
             }
-            else{
-                vec.push_back(nums[j++]);
-            }
-        }
-        while(i <= mid){
-            vec.push_back(nums[i++]);
-        }
-        while(j <= end){
-            vec.push_back(nums[j++]);
         }
 
-        for(int k = 0; k < vec.size(); k++) nums[st + k] = vec[k];
+        return i;
     }
 
-    void mergeSort(vector<int>& nums, int st, int end){
+    void quickSort(vector<int>& nums, int st, int end) {
         if(st >= end) return;
 
-        int mid = st + (end - st) / 2;
+        int pivotIdx = partition(nums, st, end);
 
-        mergeSort(nums, st, mid);
-        mergeSort(nums, mid + 1, end);
-
-        merge(nums, st, end, mid);
+        quickSort(nums, st, pivotIdx - 1);
+        quickSort(nums, pivotIdx, end);
     }
 
     vector<int> sortArray(vector<int>& nums) {
-        mergeSort(nums, 0, nums.size() - 1);
-
+        quickSort(nums, 0, nums.size() - 1);
+        
         return nums;
     }
 };
