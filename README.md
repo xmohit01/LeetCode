@@ -754,6 +754,7 @@
 | [0148-sort-list](https://github.com/xmohit01/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/xmohit01/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/xmohit01/LeetCode/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/xmohit01/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/xmohit01/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0436-find-right-interval](https://github.com/xmohit01/LeetCode/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/xmohit01/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -787,6 +788,7 @@
 | [0148-sort-list](https://github.com/xmohit01/LeetCode/tree/master/0148-sort-list) |
 | [0165-compare-version-numbers](https://github.com/xmohit01/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/xmohit01/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0295-find-median-from-data-stream](https://github.com/xmohit01/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/xmohit01/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/xmohit01/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/xmohit01/LeetCode/tree/master/0392-is-subsequence) |
@@ -835,6 +837,7 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/xmohit01/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0295-find-median-from-data-stream](https://github.com/xmohit01/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0705-design-hashset](https://github.com/xmohit01/LeetCode/tree/master/0705-design-hashset) |
 | [1797-design-authentication-manager](https://github.com/xmohit01/LeetCode/tree/master/1797-design-authentication-manager) |
 | [2336-smallest-number-in-infinite-set](https://github.com/xmohit01/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
@@ -936,6 +939,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/xmohit01/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/xmohit01/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/xmohit01/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0912-sort-an-array](https://github.com/xmohit01/LeetCode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/xmohit01/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/xmohit01/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
@@ -1027,4 +1031,8 @@
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/xmohit01/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/xmohit01/LeetCode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
