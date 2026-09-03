@@ -577,6 +577,7 @@
 | [0705-design-hashset](https://github.com/xmohit01/LeetCode/tree/master/0705-design-hashset) |
 | [0735-asteroid-collision](https://github.com/xmohit01/LeetCode/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/xmohit01/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/xmohit01/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0912-sort-an-array](https://github.com/xmohit01/LeetCode/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/xmohit01/LeetCode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/xmohit01/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -899,6 +900,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/xmohit01/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/xmohit01/LeetCode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/xmohit01/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/xmohit01/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1137-n-th-tribonacci-number](https://github.com/xmohit01/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/xmohit01/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1463-cherry-pickup-ii](https://github.com/xmohit01/LeetCode/tree/master/1463-cherry-pickup-ii) |
@@ -907,6 +909,7 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/xmohit01/LeetCode/tree/master/0338-counting-bits) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/xmohit01/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/xmohit01/LeetCode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1386-cinema-seat-allocation](https://github.com/xmohit01/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/xmohit01/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
