@@ -14,29 +14,31 @@ public:
     int ans = INT_MIN;
     int helper(TreeNode* root, int prevMove, int currSize){
         if(root == NULL){
-            ans = max(ans, currSize);
             return currSize;
         }
-        if(prevMove == 1){
-            ans = max(ans, currSize);
-            int continuing = helper(root->left, 0, currSize + 1);
-            int starting = helper(root->right, 1, 1);
 
-            return max(continuing, starting);
+        ans = max(ans, currSize);
+
+        int continuing, starting;
+
+        if(prevMove == 1){
+            continuing = helper(root->left, 0, currSize + 1);
+
+            starting = helper(root->right, 1, 1);
         }
 
         else{
-            ans = max(ans, currSize);
             int continuing = helper(root->right, 1, currSize + 1);
-            int starting = helper(root->left, 0, 1);
 
-            return max(continuing, starting);
+            int starting = helper(root->left, 0, 1);
         }
+
+        return max(continuing, starting);
     }
     int longestZigZag(TreeNode* root) {
         helper(root, 0, 0);  // 0 means prev left
         helper(root, 1, 0);  // 1 means prev right
 
-        return ans - 1;
+        return ans;
     }
 };
