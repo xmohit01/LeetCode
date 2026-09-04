@@ -610,6 +610,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/xmohit01/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3701-compute-alternating-sum](https://github.com/xmohit01/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/xmohit01/LeetCode/tree/master/3731-find-missing-elements) |
+| [3904-smallest-stable-index-ii](https://github.com/xmohit01/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## String
 |  |
 | ------- |
@@ -874,6 +875,7 @@
 | [0523-continuous-subarray-sum](https://github.com/xmohit01/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/xmohit01/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1109-corporate-flight-bookings](https://github.com/xmohit01/LeetCode/tree/master/1109-corporate-flight-bookings) |
+| [3904-smallest-stable-index-ii](https://github.com/xmohit01/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Matrix
 |  |
 | ------- |
