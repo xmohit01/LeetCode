@@ -584,6 +584,7 @@
 | [0735-asteroid-collision](https://github.com/xmohit01/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/xmohit01/LeetCode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/xmohit01/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0885-spiral-matrix-iii](https://github.com/xmohit01/LeetCode/tree/master/0885-spiral-matrix-iii) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/xmohit01/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0912-sort-an-array](https://github.com/xmohit01/LeetCode/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/xmohit01/LeetCode/tree/master/0994-rotting-oranges) |
@@ -723,6 +724,7 @@
 | [0059-spiral-matrix-ii](https://github.com/xmohit01/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/xmohit01/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/xmohit01/LeetCode/tree/master/0735-asteroid-collision) |
+| [0885-spiral-matrix-iii](https://github.com/xmohit01/LeetCode/tree/master/0885-spiral-matrix-iii) |
 | [1260-shift-2d-grid](https://github.com/xmohit01/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/xmohit01/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/xmohit01/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
@@ -889,6 +891,7 @@
 | [0079-word-search](https://github.com/xmohit01/LeetCode/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/xmohit01/LeetCode/tree/master/0174-dungeon-game) |
 | [0566-reshape-the-matrix](https://github.com/xmohit01/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0885-spiral-matrix-iii](https://github.com/xmohit01/LeetCode/tree/master/0885-spiral-matrix-iii) |
 | [0994-rotting-oranges](https://github.com/xmohit01/LeetCode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/xmohit01/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/xmohit01/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
