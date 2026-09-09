@@ -625,6 +625,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/xmohit01/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/xmohit01/LeetCode/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/xmohit01/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/xmohit01/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/xmohit01/LeetCode/tree/master/0049-group-anagrams) |
@@ -744,6 +745,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/xmohit01/LeetCode/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/xmohit01/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/xmohit01/LeetCode/tree/master/0049-group-anagrams) |
 | [0290-word-pattern](https://github.com/xmohit01/LeetCode/tree/master/0290-word-pattern) |
@@ -826,6 +828,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/xmohit01/LeetCode/tree/master/0012-integer-to-roman) |
 | [0060-permutation-sequence](https://github.com/xmohit01/LeetCode/tree/master/0060-permutation-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/xmohit01/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/xmohit01/LeetCode/tree/master/0168-excel-sheet-column-title) |
