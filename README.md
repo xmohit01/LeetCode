@@ -471,6 +471,7 @@
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/xmohit01/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/xmohit01/LeetCode/tree/master/1609-even-odd-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/xmohit01/LeetCode/tree/master/2236-root-equals-sum-of-children) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/xmohit01/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/xmohit01/LeetCode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Depth-First Search
 |  |
@@ -505,6 +506,7 @@
 | [1302-deepest-leaves-sum](https://github.com/xmohit01/LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/xmohit01/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/xmohit01/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/xmohit01/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -549,6 +551,7 @@
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/xmohit01/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/xmohit01/LeetCode/tree/master/1609-even-odd-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/xmohit01/LeetCode/tree/master/2236-root-equals-sum-of-children) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/xmohit01/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/xmohit01/LeetCode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Array
 |  |
