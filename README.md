@@ -834,6 +834,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/xmohit01/LeetCode/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/xmohit01/LeetCode/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/xmohit01/LeetCode/tree/master/0060-permutation-sequence) |
 | [0149-max-points-on-a-line](https://github.com/xmohit01/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/xmohit01/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -949,6 +950,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/xmohit01/LeetCode/tree/master/0029-divide-two-integers) |
 | [0338-counting-bits](https://github.com/xmohit01/LeetCode/tree/master/0338-counting-bits) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/xmohit01/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/xmohit01/LeetCode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
