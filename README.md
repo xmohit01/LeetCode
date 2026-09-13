@@ -567,6 +567,7 @@
 | [0079-word-search](https://github.com/xmohit01/LeetCode/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/xmohit01/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/xmohit01/LeetCode/tree/master/0120-triangle) |
+| [0136-single-number](https://github.com/xmohit01/LeetCode/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/xmohit01/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/xmohit01/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/xmohit01/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -964,6 +965,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/xmohit01/LeetCode/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/xmohit01/LeetCode/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/xmohit01/LeetCode/tree/master/0338-counting-bits) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/xmohit01/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/xmohit01/LeetCode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
