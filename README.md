@@ -596,6 +596,7 @@
 | [0735-asteroid-collision](https://github.com/xmohit01/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/xmohit01/LeetCode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/xmohit01/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/xmohit01/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0885-spiral-matrix-iii](https://github.com/xmohit01/LeetCode/tree/master/0885-spiral-matrix-iii) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/xmohit01/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0912-sort-an-array](https://github.com/xmohit01/LeetCode/tree/master/0912-sort-an-array) |
@@ -702,6 +703,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/xmohit01/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/xmohit01/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/xmohit01/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0875-koko-eating-bananas](https://github.com/xmohit01/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/xmohit01/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/xmohit01/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/xmohit01/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
