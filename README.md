@@ -574,6 +574,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/xmohit01/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/xmohit01/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0174-dungeon-game](https://github.com/xmohit01/LeetCode/tree/master/0174-dungeon-game) |
+| [0198-house-robber](https://github.com/xmohit01/LeetCode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/xmohit01/LeetCode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/xmohit01/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/xmohit01/LeetCode/tree/master/0274-h-index) |
@@ -948,6 +949,7 @@
 | [0120-triangle](https://github.com/xmohit01/LeetCode/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/xmohit01/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/xmohit01/LeetCode/tree/master/0174-dungeon-game) |
+| [0198-house-robber](https://github.com/xmohit01/LeetCode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/xmohit01/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/xmohit01/LeetCode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/xmohit01/LeetCode/tree/master/0416-partition-equal-subset-sum) |
