@@ -874,6 +874,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/xmohit01/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1137-n-th-tribonacci-number](https://github.com/xmohit01/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/xmohit01/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1492-the-kth-factor-of-n](https://github.com/xmohit01/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/xmohit01/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2652-sum-multiples](https://github.com/xmohit01/LeetCode/tree/master/2652-sum-multiples) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/xmohit01/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -885,6 +886,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/xmohit01/LeetCode/tree/master/0204-count-primes) |
+| [1492-the-kth-factor-of-n](https://github.com/xmohit01/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/xmohit01/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Counting Sort
 |  |
@@ -1131,4 +1133,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/xmohit01/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/xmohit01/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
