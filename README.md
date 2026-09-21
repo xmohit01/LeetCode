@@ -630,6 +630,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/xmohit01/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/xmohit01/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/xmohit01/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3524-find-x-value-of-array-i](https://github.com/xmohit01/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/xmohit01/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3701-compute-alternating-sum](https://github.com/xmohit01/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/xmohit01/LeetCode/tree/master/3731-find-missing-elements) |
@@ -884,6 +885,7 @@
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/xmohit01/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/xmohit01/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/xmohit01/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3524-find-x-value-of-array-i](https://github.com/xmohit01/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/xmohit01/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3871-count-commas-in-range-ii](https://github.com/xmohit01/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 ## Number Theory
@@ -984,6 +986,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/xmohit01/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/xmohit01/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/xmohit01/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3524-find-x-value-of-array-i](https://github.com/xmohit01/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
