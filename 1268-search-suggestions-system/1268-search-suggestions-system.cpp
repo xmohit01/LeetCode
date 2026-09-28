@@ -5,21 +5,22 @@ public:
 
         sort(products.begin(), products.end());
 
-        string checker = "";
-        int len = 0;
+        string prefix = "";
+
         for(char c : searchWord) {
-            checker += c;
-            len++;
+            prefix += c;
 
-            vector<string> tempResult;
+            vector<string> temp;
 
-            for(string& check : products) {
-                if(check.substr(0, len) == checker) tempResult.push_back(check);
+            auto it = lower_bound(products.begin(), products.end(), prefix);
 
-                if(tempResult.size() == 3) break;
-            }
+            for(int i = 0; i < 3 && (it + i) != products.end(); i++) {
+                if((it + i)->compare(0, prefix.size(), prefix) != 0) break;
 
-            result.push_back(tempResult);
+                temp.push_back(*(it + i));
+            } 
+
+            result.push_back(temp);
         }
 
         return result;
