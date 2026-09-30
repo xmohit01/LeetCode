@@ -1,24 +1,20 @@
 class Solution {
 public:
-    bool canVisitAllRooms(vector<vector<int>>& rooms) {
-        vector<int> s(rooms.size(), 0);
-        s[0] = 1;
+    void dfs(vector<vector<int>>& rooms, vector<bool>& visited, int room) {
+        visited[room] = true;
 
-        queue<vector<int>> q;
-        q.push(rooms[0]);
-
-        while(!q.empty()){
-            for(int i : q.front()){
-                if(s[i] == 0){
-                    s[i] = 1;
-                    q.push(rooms[i]);
-                }
-            }
-            q.pop();
+        for(int key : rooms[room]) {
+            if(!visited[key]) dfs(rooms, visited, key);
         }
-        int count = 0;
-        for(int i : s) count += i;
+    }
+    bool canVisitAllRooms(vector<vector<int>>& rooms) {
+        vector<bool> visited(rooms.size(), false);
+        
+        dfs(rooms, visited, 0);
 
-        return count == rooms.size();
+        for(bool i : visited)
+            if(! i) return false;
+
+        return true;
     }
 };
