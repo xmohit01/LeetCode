@@ -592,6 +592,7 @@
 | [0436-find-right-interval](https://github.com/xmohit01/LeetCode/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/xmohit01/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/xmohit01/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0542-01-matrix](https://github.com/xmohit01/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/xmohit01/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/xmohit01/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/xmohit01/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -753,6 +754,7 @@
 | [0429-n-ary-tree-level-order-traversal](https://github.com/xmohit01/LeetCode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/xmohit01/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/xmohit01/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/xmohit01/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/xmohit01/LeetCode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/xmohit01/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/xmohit01/LeetCode/tree/master/0623-add-one-row-to-tree) |
@@ -965,6 +967,7 @@
 | [0064-minimum-path-sum](https://github.com/xmohit01/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/xmohit01/LeetCode/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/xmohit01/LeetCode/tree/master/0174-dungeon-game) |
+| [0542-01-matrix](https://github.com/xmohit01/LeetCode/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/xmohit01/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/xmohit01/LeetCode/tree/master/0885-spiral-matrix-iii) |
 | [0994-rotting-oranges](https://github.com/xmohit01/LeetCode/tree/master/0994-rotting-oranges) |
@@ -994,6 +997,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/xmohit01/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/xmohit01/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/xmohit01/LeetCode/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/xmohit01/LeetCode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/xmohit01/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/xmohit01/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0940-distinct-subsequences-ii](https://github.com/xmohit01/LeetCode/tree/master/0940-distinct-subsequences-ii) |
