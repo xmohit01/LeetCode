@@ -875,6 +875,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/xmohit01/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/xmohit01/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/xmohit01/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2396-strictly-palindromic-number](https://github.com/xmohit01/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/xmohit01/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3794-reverse-string-prefix](https://github.com/xmohit01/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Math
@@ -900,6 +901,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/xmohit01/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1492-the-kth-factor-of-n](https://github.com/xmohit01/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/xmohit01/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2396-strictly-palindromic-number](https://github.com/xmohit01/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2652-sum-multiples](https://github.com/xmohit01/LeetCode/tree/master/2652-sum-multiples) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/xmohit01/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/xmohit01/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -1178,4 +1180,8 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/xmohit01/LeetCode/tree/master/0547-number-of-provinces) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/xmohit01/LeetCode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
