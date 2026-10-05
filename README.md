@@ -623,6 +623,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/xmohit01/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/xmohit01/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/xmohit01/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/xmohit01/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1441-build-an-array-with-stack-operations](https://github.com/xmohit01/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1463-cherry-pickup-ii](https://github.com/xmohit01/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/xmohit01/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -1042,6 +1043,7 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/xmohit01/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/xmohit01/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/xmohit01/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/xmohit01/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/xmohit01/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -1072,6 +1074,7 @@
 | [0295-find-median-from-data-stream](https://github.com/xmohit01/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0912-sort-an-array](https://github.com/xmohit01/LeetCode/tree/master/0912-sort-an-array) |
 | [1268-search-suggestions-system](https://github.com/xmohit01/LeetCode/tree/master/1268-search-suggestions-system) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/xmohit01/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/xmohit01/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/xmohit01/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2679-sum-in-a-matrix](https://github.com/xmohit01/LeetCode/tree/master/2679-sum-in-a-matrix) |
@@ -1170,6 +1173,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/xmohit01/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2336-smallest-number-in-infinite-set](https://github.com/xmohit01/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Data Stream
 |  |
@@ -1218,4 +1222,12 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/xmohit01/LeetCode/tree/master/0207-course-schedule) |
+## Queue
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/xmohit01/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/xmohit01/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
