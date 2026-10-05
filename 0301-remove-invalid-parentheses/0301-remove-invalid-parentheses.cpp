@@ -1,7 +1,7 @@
 class Solution {
 public:
     int n;
-    void helper(string& s, int idx, int opens, int closes, int removeOpen, int removeClose, string& temp, set<string>& result) {
+    void helper(string& s, int idx, int opens, int closes, int removeOpen, int removeClose, string& temp, unordered_set<string>& result) {
 
         // Check whether we have processed the complete string
         if(idx == n) {
@@ -57,7 +57,7 @@ public:
         }
 
         string temp;
-        set<string> ans;
+        unordered_set<string> ans;
 
         helper(s, 0, 0, 0, removeOpen, removeClose, temp, ans);
 
