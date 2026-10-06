@@ -425,6 +425,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/xmohit01/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/xmohit01/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/xmohit01/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/xmohit01/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/xmohit01/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/xmohit01/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/xmohit01/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
@@ -631,6 +632,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/xmohit01/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/xmohit01/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/xmohit01/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/xmohit01/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/xmohit01/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/xmohit01/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/xmohit01/LeetCode/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
@@ -791,6 +793,7 @@
 | [0885-spiral-matrix-iii](https://github.com/xmohit01/LeetCode/tree/master/0885-spiral-matrix-iii) |
 | [1260-shift-2d-grid](https://github.com/xmohit01/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/xmohit01/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/xmohit01/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/xmohit01/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2326-spiral-matrix-iv](https://github.com/xmohit01/LeetCode/tree/master/2326-spiral-matrix-iv) |
 | [2352-equal-row-and-column-pairs](https://github.com/xmohit01/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
@@ -1234,6 +1237,7 @@
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/xmohit01/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/xmohit01/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/xmohit01/LeetCode/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 ## Monotonic Queue
 |  |
