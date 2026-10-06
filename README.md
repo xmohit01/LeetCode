@@ -672,6 +672,7 @@
 | [0392-is-subsequence](https://github.com/xmohit01/LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/xmohit01/LeetCode/tree/master/0394-decode-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/xmohit01/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
+| [0649-dota2-senate](https://github.com/xmohit01/LeetCode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/xmohit01/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/xmohit01/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/xmohit01/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -964,6 +965,7 @@
 | [0316-remove-duplicate-letters](https://github.com/xmohit01/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/xmohit01/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/xmohit01/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0649-dota2-senate](https://github.com/xmohit01/LeetCode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/xmohit01/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/xmohit01/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/xmohit01/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -1236,6 +1238,7 @@
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/xmohit01/LeetCode/tree/master/0649-dota2-senate) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/xmohit01/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/xmohit01/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/xmohit01/LeetCode/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
