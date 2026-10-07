@@ -677,6 +677,7 @@
 | [0678-valid-parenthesis-string](https://github.com/xmohit01/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/xmohit01/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/xmohit01/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1143-longest-common-subsequence](https://github.com/xmohit01/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/xmohit01/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/xmohit01/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/xmohit01/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -1031,6 +1032,7 @@
 | [0898-bitwise-ors-of-subarrays](https://github.com/xmohit01/LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0940-distinct-subsequences-ii](https://github.com/xmohit01/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/xmohit01/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/xmohit01/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/xmohit01/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/xmohit01/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1463-cherry-pickup-ii](https://github.com/xmohit01/LeetCode/tree/master/1463-cherry-pickup-ii) |
@@ -1250,4 +1252,8 @@
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/xmohit01/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/xmohit01/LeetCode/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/xmohit01/LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
