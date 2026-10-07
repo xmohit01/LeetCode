@@ -4,33 +4,32 @@ public:
     int helper(vector<int>& prices, int idx, int buy, vector<vector<int>>& dp) {
         if(idx >= n) return 0;
 
+        // Already calculated this state
         if(dp[idx][buy] != -1) return dp[idx][buy];
 
-        int maxi = INT_MIN;
-
         if(buy == 1) {
-            // buy today
-            maxi = max(maxi, - prices[idx] + helper(prices, idx + 1, 0, dp));
-
-            // skip today to buy
-            maxi = max(maxi, helper(prices, idx + 1, 1, dp));
+            // We don't have a stock, so either buy today or skip
+            return dp[idx][buy] = max(
+                - prices[idx] + helper(prices, idx + 1, 0, dp), // Buy today
+                helper(prices, idx + 1, 1, dp)                  // Skip today
+            );
         }
         
         else {
-            // sell today
-            maxi = max(maxi, prices[idx] + helper(prices, idx + 1, 1, dp));
-
-            // skip today to sell
-            maxi = max(maxi, helper(prices, idx + 1, 0, dp));
+            return dp[idx][buy] = max(
+                prices[idx] + helper(prices, idx + 1, 1, dp), // Sell today
+                helper(prices, idx + 1, 0, dp)                // Skip today
+            );
         }
-        
-        return dp[idx][buy] = maxi;
     }
     int maxProfit(vector<int>& prices) {
         n = prices.size();
 
+        // dp[idx][buy]:
+        // Maximum profit from idx onwards with current buy state
         vector<vector<int>> dp(n, vector<int>(2, -1));
 
+        // Initially, we don't own any stock, so we can buy
         return helper(prices, 0, 1, dp);
     }
 };
