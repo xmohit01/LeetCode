@@ -645,6 +645,7 @@
 | [2326-spiral-matrix-iv](https://github.com/xmohit01/LeetCode/tree/master/2326-spiral-matrix-iv) |
 | [2352-equal-row-and-column-pairs](https://github.com/xmohit01/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/xmohit01/LeetCode/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2542-maximum-subsequence-score](https://github.com/xmohit01/LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [2679-sum-in-a-matrix](https://github.com/xmohit01/LeetCode/tree/master/2679-sum-in-a-matrix) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/xmohit01/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/xmohit01/LeetCode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
@@ -872,6 +873,7 @@
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/xmohit01/LeetCode/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/xmohit01/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/xmohit01/LeetCode/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2542-maximum-subsequence-score](https://github.com/xmohit01/LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [2679-sum-in-a-matrix](https://github.com/xmohit01/LeetCode/tree/master/2679-sum-in-a-matrix) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/xmohit01/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/xmohit01/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -986,6 +988,7 @@
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/xmohit01/LeetCode/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/xmohit01/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/xmohit01/LeetCode/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2542-maximum-subsequence-score](https://github.com/xmohit01/LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/xmohit01/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/xmohit01/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Prefix Sum
@@ -1107,6 +1110,7 @@
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/xmohit01/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/xmohit01/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/xmohit01/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
+| [2542-maximum-subsequence-score](https://github.com/xmohit01/LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [2679-sum-in-a-matrix](https://github.com/xmohit01/LeetCode/tree/master/2679-sum-in-a-matrix) |
 ## Graph Theory
 |  |
