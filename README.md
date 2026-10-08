@@ -937,6 +937,7 @@
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/xmohit01/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/xmohit01/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1492-the-kth-factor-of-n](https://github.com/xmohit01/LeetCode/tree/master/1492-the-kth-factor-of-n) |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/xmohit01/LeetCode/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/xmohit01/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/xmohit01/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2652-sum-multiples](https://github.com/xmohit01/LeetCode/tree/master/2652-sum-multiples) |
