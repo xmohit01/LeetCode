@@ -646,6 +646,7 @@
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/xmohit01/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2326-spiral-matrix-iv](https://github.com/xmohit01/LeetCode/tree/master/2326-spiral-matrix-iv) |
 | [2352-equal-row-and-column-pairs](https://github.com/xmohit01/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/xmohit01/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/xmohit01/LeetCode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2542-maximum-subsequence-score](https://github.com/xmohit01/LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [2679-sum-in-a-matrix](https://github.com/xmohit01/LeetCode/tree/master/2679-sum-in-a-matrix) |
@@ -812,6 +813,7 @@
 | [2326-spiral-matrix-iv](https://github.com/xmohit01/LeetCode/tree/master/2326-spiral-matrix-iv) |
 | [2352-equal-row-and-column-pairs](https://github.com/xmohit01/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/xmohit01/LeetCode/tree/master/2390-removing-stars-from-a-string) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/xmohit01/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2679-sum-in-a-matrix](https://github.com/xmohit01/LeetCode/tree/master/2679-sum-in-a-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/xmohit01/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3701-compute-alternating-sum](https://github.com/xmohit01/LeetCode/tree/master/3701-compute-alternating-sum) |
@@ -913,6 +915,7 @@
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/xmohit01/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/xmohit01/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2396-strictly-palindromic-number](https://github.com/xmohit01/LeetCode/tree/master/2396-strictly-palindromic-number) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/xmohit01/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/xmohit01/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3794-reverse-string-prefix](https://github.com/xmohit01/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Math
@@ -1115,6 +1118,7 @@
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/xmohit01/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/xmohit01/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/xmohit01/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/xmohit01/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/xmohit01/LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [2679-sum-in-a-matrix](https://github.com/xmohit01/LeetCode/tree/master/2679-sum-in-a-matrix) |
 ## Graph Theory
