@@ -647,6 +647,7 @@
 | [2239-find-closest-number-to-zero](https://github.com/xmohit01/LeetCode/tree/master/2239-find-closest-number-to-zero) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/xmohit01/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2326-spiral-matrix-iv](https://github.com/xmohit01/LeetCode/tree/master/2326-spiral-matrix-iv) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/xmohit01/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2352-equal-row-and-column-pairs](https://github.com/xmohit01/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/xmohit01/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/xmohit01/LeetCode/tree/master/2517-maximum-tastiness-of-candy-basket) |
@@ -760,6 +761,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/xmohit01/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/xmohit01/LeetCode/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/xmohit01/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/xmohit01/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/xmohit01/LeetCode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Divide and Conquer
 |  |
@@ -882,6 +884,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/xmohit01/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/xmohit01/LeetCode/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/xmohit01/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/xmohit01/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/xmohit01/LeetCode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2542-maximum-subsequence-score](https://github.com/xmohit01/LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [2679-sum-in-a-matrix](https://github.com/xmohit01/LeetCode/tree/master/2679-sum-in-a-matrix) |
@@ -999,6 +1002,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/xmohit01/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/xmohit01/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/xmohit01/LeetCode/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/xmohit01/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/xmohit01/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/xmohit01/LeetCode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2542-maximum-subsequence-score](https://github.com/xmohit01/LeetCode/tree/master/2542-maximum-subsequence-score) |
@@ -1123,6 +1127,7 @@
 | [1268-search-suggestions-system](https://github.com/xmohit01/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/xmohit01/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/xmohit01/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/xmohit01/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2336-smallest-number-in-infinite-set](https://github.com/xmohit01/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/xmohit01/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/xmohit01/LeetCode/tree/master/2542-maximum-subsequence-score) |
