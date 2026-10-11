@@ -668,6 +668,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/xmohit01/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/xmohit01/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/xmohit01/LeetCode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/xmohit01/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -905,6 +906,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/xmohit01/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/xmohit01/LeetCode/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/xmohit01/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/xmohit01/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -1046,6 +1048,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/xmohit01/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/xmohit01/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/xmohit01/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/xmohit01/LeetCode/tree/master/0045-jump-game-ii) |
@@ -1315,4 +1318,8 @@
 |  |
 | ------- |
 | [1093-statistics-from-a-large-sample](https://github.com/xmohit01/LeetCode/tree/master/1093-statistics-from-a-large-sample) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/xmohit01/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
