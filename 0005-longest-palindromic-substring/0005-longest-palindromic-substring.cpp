@@ -1,31 +1,40 @@
 class Solution {
 public:
-    bool isPalimdrome(string& s, int i, int j) {
-        while(i <= j) {
-            if(s[i++] != s[j--]) return false;
-        }
-
-        return true;
-    }
     string longestPalindrome(string s) {
         int n = s.length();
 
         int len = 0;
-        string ans;
-
+        int start = 0;
+        
         for(int i = 0; i < n; i++) {
-            for(int j = i; j < n; j++) {
+            int l = i, r = i;
 
-                if(isPalimdrome(s, i, j)) {
-                    if(j - i + 1 > len) {
-                        len = j - i + 1;
+            while(l >= 0 && r < n && s[l] == s[r]) {
+                if(r - l + 1 > len) {
+                    len = r - l + 1;
 
-                        ans = s.substr(i, len);
-                    }
+                    start = l;
                 }
+
+                l--;
+                r++;
+            }
+
+            l = i;
+            r = i + 1;
+
+            while(l >= 0 && r < n && s[l] == s[r]) {
+                if(r - l + 1 > len) {
+                    len = r - l + 1;
+
+                    start = l;
+                }
+
+                l--;
+                r++;
             }
         }
 
-        return ans;
+        return s.substr(start, len);
     }
 };
