@@ -12,19 +12,17 @@
 class Solution {
 public:
     vector<int> ans;
-    int prev = INT_MAX;
+    int prev = 0;
     int freq = 0, maxFreq = 0;
-    bool first = true;
 
     void inorder(TreeNode* root) {
         if(root == NULL) return;
 
         inorder(root->left);
 
-        if(first || root->val != prev) {
+        if(root->val != prev) {
             freq = 1;
             prev = root->val;
-            first = false;
         }
         else {
             freq++;
