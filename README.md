@@ -657,6 +657,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/xmohit01/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/xmohit01/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/xmohit01/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3022-minimize-or-of-remaining-elements-using-operations](https://github.com/xmohit01/LeetCode/tree/master/3022-minimize-or-of-remaining-elements-using-operations) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/xmohit01/LeetCode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/xmohit01/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/xmohit01/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -1015,6 +1016,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/xmohit01/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/xmohit01/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/xmohit01/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3022-minimize-or-of-remaining-elements-using-operations](https://github.com/xmohit01/LeetCode/tree/master/3022-minimize-or-of-remaining-elements-using-operations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1094,6 +1096,7 @@
 | [1386-cinema-seat-allocation](https://github.com/xmohit01/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/xmohit01/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/xmohit01/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3022-minimize-or-of-remaining-elements-using-operations](https://github.com/xmohit01/LeetCode/tree/master/3022-minimize-or-of-remaining-elements-using-operations) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/xmohit01/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Memoization
 |  |
