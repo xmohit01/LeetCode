@@ -478,6 +478,7 @@
 | [1609-even-odd-tree](https://github.com/xmohit01/LeetCode/tree/master/1609-even-odd-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/xmohit01/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/xmohit01/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/xmohit01/LeetCode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/xmohit01/LeetCode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Depth-First Search
 |  |
@@ -520,6 +521,7 @@
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/xmohit01/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/xmohit01/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/xmohit01/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/xmohit01/LeetCode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 ## Binary Tree
 |  |
 | ------- |
@@ -566,6 +568,7 @@
 | [1609-even-odd-tree](https://github.com/xmohit01/LeetCode/tree/master/1609-even-odd-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/xmohit01/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/xmohit01/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/xmohit01/LeetCode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/xmohit01/LeetCode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Array
 |  |
@@ -653,6 +656,7 @@
 | [2326-spiral-matrix-iv](https://github.com/xmohit01/LeetCode/tree/master/2326-spiral-matrix-iv) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/xmohit01/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2352-equal-row-and-column-pairs](https://github.com/xmohit01/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/xmohit01/LeetCode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/xmohit01/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/xmohit01/LeetCode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2542-maximum-subsequence-score](https://github.com/xmohit01/LeetCode/tree/master/2542-maximum-subsequence-score) |
@@ -811,6 +815,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/xmohit01/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/xmohit01/LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1609-even-odd-tree](https://github.com/xmohit01/LeetCode/tree/master/1609-even-odd-tree) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/xmohit01/LeetCode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/xmohit01/LeetCode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/xmohit01/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
