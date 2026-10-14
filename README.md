@@ -968,6 +968,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/xmohit01/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3524-find-x-value-of-array-i](https://github.com/xmohit01/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/xmohit01/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/xmohit01/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3871-count-commas-in-range-ii](https://github.com/xmohit01/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 ## Number Theory
 |  |
@@ -1021,6 +1022,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/xmohit01/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/xmohit01/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3022-minimize-or-of-remaining-elements-using-operations](https://github.com/xmohit01/LeetCode/tree/master/3022-minimize-or-of-remaining-elements-using-operations) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/xmohit01/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Prefix Sum
 |  |
 | ------- |
