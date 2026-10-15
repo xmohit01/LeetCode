@@ -6,9 +6,7 @@ public:
         if(visited[idx] == 1) return false;  // cycle detects.
 
         visited[idx] = 1;
-
-        if(graph[idx].empty()) visited[idx] = 2;
-
+        
         for(int i : graph[idx]) {
             if(! dfs(graph, i, visited)) return false;
         }
@@ -30,7 +28,7 @@ public:
         for(int i = 0; i < n; i++) {
             if(visited[i] == 2) ans.push_back(i);
         }
-        
+
         return ans;
     }
 };
