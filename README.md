@@ -512,6 +512,7 @@
 | [0687-longest-univalue-path](https://github.com/xmohit01/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/xmohit01/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/xmohit01/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/xmohit01/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/xmohit01/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/xmohit01/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [1020-number-of-enclaves](https://github.com/xmohit01/LeetCode/tree/master/1020-number-of-enclaves) |
@@ -810,6 +811,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/xmohit01/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/xmohit01/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/xmohit01/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/xmohit01/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/xmohit01/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/xmohit01/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/xmohit01/LeetCode/tree/master/1020-number-of-enclaves) |
@@ -1167,6 +1169,7 @@
 | [0399-evaluate-division](https://github.com/xmohit01/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/xmohit01/LeetCode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/xmohit01/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/xmohit01/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/xmohit01/LeetCode/tree/master/0841-keys-and-rooms) |
 ## Geometry
 |  |
@@ -1302,6 +1305,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/xmohit01/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/xmohit01/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/xmohit01/LeetCode/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -1350,4 +1354,12 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/xmohit01/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/xmohit01/LeetCode/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/xmohit01/LeetCode/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
