@@ -395,6 +395,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/xmohit01/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/xmohit01/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/xmohit01/LeetCode/tree/master/0382-linked-list-random-node) |
+| [0460-lfu-cache](https://github.com/xmohit01/LeetCode/tree/master/0460-lfu-cache) |
 | [0705-design-hashset](https://github.com/xmohit01/LeetCode/tree/master/0705-design-hashset) |
 | [0725-split-linked-list-in-parts](https://github.com/xmohit01/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/xmohit01/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -853,6 +854,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/xmohit01/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/xmohit01/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/xmohit01/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0460-lfu-cache](https://github.com/xmohit01/LeetCode/tree/master/0460-lfu-cache) |
 | [0508-most-frequent-subtree-sum](https://github.com/xmohit01/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0523-continuous-subarray-sum](https://github.com/xmohit01/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/xmohit01/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -1002,6 +1004,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/xmohit01/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/xmohit01/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/xmohit01/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0460-lfu-cache](https://github.com/xmohit01/LeetCode/tree/master/0460-lfu-cache) |
 | [0705-design-hashset](https://github.com/xmohit01/LeetCode/tree/master/0705-design-hashset) |
 | [1797-design-authentication-manager](https://github.com/xmohit01/LeetCode/tree/master/1797-design-authentication-manager) |
 | [2336-smallest-number-in-infinite-set](https://github.com/xmohit01/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
@@ -1249,6 +1252,7 @@
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0460-lfu-cache](https://github.com/xmohit01/LeetCode/tree/master/0460-lfu-cache) |
 | [1797-design-authentication-manager](https://github.com/xmohit01/LeetCode/tree/master/1797-design-authentication-manager) |
 ## Bucket Sort
 |  |
