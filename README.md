@@ -476,6 +476,7 @@
 | [1302-deepest-leaves-sum](https://github.com/xmohit01/LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/xmohit01/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/xmohit01/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/xmohit01/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1609-even-odd-tree](https://github.com/xmohit01/LeetCode/tree/master/1609-even-odd-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/xmohit01/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/xmohit01/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -567,6 +568,7 @@
 | [1302-deepest-leaves-sum](https://github.com/xmohit01/LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/xmohit01/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/xmohit01/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/xmohit01/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1609-even-odd-tree](https://github.com/xmohit01/LeetCode/tree/master/1609-even-odd-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/xmohit01/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/xmohit01/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -646,6 +648,7 @@
 | [1463-cherry-pickup-ii](https://github.com/xmohit01/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/xmohit01/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/xmohit01/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/xmohit01/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/xmohit01/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/xmohit01/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/xmohit01/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -775,6 +778,7 @@
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/xmohit01/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/xmohit01/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/xmohit01/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/xmohit01/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/xmohit01/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/xmohit01/LeetCode/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/xmohit01/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -789,6 +793,7 @@
 | [0148-sort-list](https://github.com/xmohit01/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/xmohit01/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/xmohit01/LeetCode/tree/master/0912-sort-an-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/xmohit01/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -973,6 +978,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/xmohit01/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1492-the-kth-factor-of-n](https://github.com/xmohit01/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/xmohit01/LeetCode/tree/master/1551-minimum-operations-to-make-array-equal) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/xmohit01/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/xmohit01/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/xmohit01/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2652-sum-multiples](https://github.com/xmohit01/LeetCode/tree/master/2652-sum-multiples) |
@@ -1101,6 +1107,7 @@
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/xmohit01/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1463-cherry-pickup-ii](https://github.com/xmohit01/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/xmohit01/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/xmohit01/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/xmohit01/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/xmohit01/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3524-find-x-value-of-array-i](https://github.com/xmohit01/LeetCode/tree/master/3524-find-x-value-of-array-i) |
@@ -1123,6 +1130,7 @@
 | ------- |
 | [0509-fibonacci-number](https://github.com/xmohit01/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/xmohit01/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/xmohit01/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1294,6 +1302,7 @@
 | [0547-number-of-provinces](https://github.com/xmohit01/LeetCode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/xmohit01/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/xmohit01/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/xmohit01/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Brainteaser
 |  |
 | ------- |
@@ -1370,4 +1379,12 @@
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/xmohit01/LeetCode/tree/master/0802-find-eventual-safe-states) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/xmohit01/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/xmohit01/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
