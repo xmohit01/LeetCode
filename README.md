@@ -682,6 +682,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/xmohit01/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3701-compute-alternating-sum](https://github.com/xmohit01/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/xmohit01/LeetCode/tree/master/3731-find-missing-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/xmohit01/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/xmohit01/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## String
 |  |
@@ -926,6 +927,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/xmohit01/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/xmohit01/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/xmohit01/LeetCode/tree/master/3731-find-missing-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/xmohit01/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -996,6 +998,7 @@
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/xmohit01/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/xmohit01/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3871-count-commas-in-range-ii](https://github.com/xmohit01/LeetCode/tree/master/3871-count-commas-in-range-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/xmohit01/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 ## Number Theory
 |  |
 | ------- |
@@ -1215,6 +1218,7 @@
 | [0204-count-primes](https://github.com/xmohit01/LeetCode/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/xmohit01/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/xmohit01/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3886-sum-of-sortable-integers](https://github.com/xmohit01/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 ## Bracket Sequences
 |  |
 | ------- |
