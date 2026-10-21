@@ -729,6 +729,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/xmohit01/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3794-reverse-string-prefix](https://github.com/xmohit01/LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/xmohit01/LeetCode/tree/master/3798-largest-even-number) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/xmohit01/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Trie
 |  |
 | ------- |
