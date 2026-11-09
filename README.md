@@ -721,6 +721,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/xmohit01/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/xmohit01/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/xmohit01/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/xmohit01/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2390-removing-stars-from-a-string](https://github.com/xmohit01/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/xmohit01/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/xmohit01/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -887,6 +888,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/xmohit01/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1797-design-authentication-manager](https://github.com/xmohit01/LeetCode/tree/master/1797-design-authentication-manager) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/xmohit01/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/xmohit01/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2336-smallest-number-in-infinite-set](https://github.com/xmohit01/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/xmohit01/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/xmohit01/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -1018,6 +1020,7 @@
 | [0912-sort-an-array](https://github.com/xmohit01/LeetCode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/xmohit01/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/xmohit01/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/xmohit01/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/xmohit01/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/xmohit01/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Design
@@ -1125,6 +1128,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/xmohit01/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/xmohit01/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/xmohit01/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/xmohit01/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/xmohit01/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3524-find-x-value-of-array-i](https://github.com/xmohit01/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 ## Bit Manipulation
@@ -1148,6 +1152,7 @@
 | [0509-fibonacci-number](https://github.com/xmohit01/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/xmohit01/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/xmohit01/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/xmohit01/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1202,6 +1207,7 @@
 | [0785-is-graph-bipartite](https://github.com/xmohit01/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/xmohit01/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/xmohit01/LeetCode/tree/master/0841-keys-and-rooms) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/xmohit01/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Geometry
 |  |
 | ------- |
@@ -1342,10 +1348,12 @@
 | [0207-course-schedule](https://github.com/xmohit01/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/xmohit01/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/xmohit01/LeetCode/tree/master/0802-find-eventual-safe-states) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/xmohit01/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/xmohit01/LeetCode/tree/master/0207-course-schedule) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/xmohit01/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Queue
 |  |
 | ------- |
