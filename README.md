@@ -513,6 +513,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/xmohit01/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/xmohit01/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0687-longest-univalue-path](https://github.com/xmohit01/LeetCode/tree/master/0687-longest-univalue-path) |
+| [0743-network-delay-time](https://github.com/xmohit01/LeetCode/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/xmohit01/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/xmohit01/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/xmohit01/LeetCode/tree/master/0802-find-eventual-safe-states) |
@@ -828,6 +829,7 @@
 | [0617-merge-two-binary-trees](https://github.com/xmohit01/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/xmohit01/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/xmohit01/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0743-network-delay-time](https://github.com/xmohit01/LeetCode/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/xmohit01/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/xmohit01/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/xmohit01/LeetCode/tree/master/0802-find-eventual-safe-states) |
@@ -1187,6 +1189,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/xmohit01/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/xmohit01/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/xmohit01/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0743-network-delay-time](https://github.com/xmohit01/LeetCode/tree/master/0743-network-delay-time) |
 | [0912-sort-an-array](https://github.com/xmohit01/LeetCode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/xmohit01/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1268-search-suggestions-system](https://github.com/xmohit01/LeetCode/tree/master/1268-search-suggestions-system) |
@@ -1204,6 +1207,7 @@
 | [0210-course-schedule-ii](https://github.com/xmohit01/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/xmohit01/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/xmohit01/LeetCode/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/xmohit01/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/xmohit01/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/xmohit01/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/xmohit01/LeetCode/tree/master/0841-keys-and-rooms) |
@@ -1374,6 +1378,7 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/xmohit01/LeetCode/tree/master/0399-evaluate-division) |
+| [0743-network-delay-time](https://github.com/xmohit01/LeetCode/tree/master/0743-network-delay-time) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
@@ -1422,4 +1427,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/xmohit01/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/xmohit01/LeetCode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
