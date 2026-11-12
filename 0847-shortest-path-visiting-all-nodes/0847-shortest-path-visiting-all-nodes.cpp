@@ -12,7 +12,6 @@ public:
 
         int target = (1 << n) - 1;
 
-
         while(!q.empty()) {
             auto v = q.front();
             q.pop();
@@ -27,7 +26,7 @@ public:
                 int newMask = mask | (1 << i);
                 if(vis[i][newMask]) continue;
 
-                vis[i][newMask] = newMask;
+                vis[i][newMask] = true;
                 q.push({i, newMask, dist + 1});
             }
         }
