@@ -525,6 +525,7 @@
 | [1302-deepest-leaves-sum](https://github.com/xmohit01/LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/xmohit01/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/xmohit01/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/xmohit01/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/xmohit01/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/xmohit01/LeetCode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/xmohit01/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -846,6 +847,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/xmohit01/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/xmohit01/LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1609-even-odd-tree](https://github.com/xmohit01/LeetCode/tree/master/1609-even-odd-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/xmohit01/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/xmohit01/LeetCode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/xmohit01/LeetCode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/xmohit01/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -1226,6 +1228,7 @@
 | [0841-keys-and-rooms](https://github.com/xmohit01/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/xmohit01/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/xmohit01/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [1971-find-if-path-exists-in-graph](https://github.com/xmohit01/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Geometry
 |  |
 | ------- |
@@ -1348,6 +1351,7 @@
 | [0785-is-graph-bipartite](https://github.com/xmohit01/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/xmohit01/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/xmohit01/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1971-find-if-path-exists-in-graph](https://github.com/xmohit01/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Brainteaser
 |  |
 | ------- |
