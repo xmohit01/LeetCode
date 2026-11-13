@@ -4,7 +4,7 @@ public:
         int k = wordList.size();
         int n = beginWord.length();
 
-        unordered_set<string> s;
+        set<string> s;
         for(auto& word : wordList) s.insert(word);
 
         int cnt = 1;
