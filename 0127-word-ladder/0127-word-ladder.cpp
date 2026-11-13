@@ -25,6 +25,8 @@ public:
                     for(int k = 0; k < 26; k++) {
                         char ch = k + 'a';
 
+                        if(ch == word[j]) continue;
+
                         string temp = word;
                         temp[j] = ch;
 
