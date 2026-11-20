@@ -1230,6 +1230,7 @@
 | [0802-find-eventual-safe-states](https://github.com/xmohit01/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/xmohit01/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/xmohit01/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [1791-find-center-of-star-graph](https://github.com/xmohit01/LeetCode/tree/master/1791-find-center-of-star-graph) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/xmohit01/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/xmohit01/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Geometry
